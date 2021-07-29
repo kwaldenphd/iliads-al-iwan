@@ -45,9 +45,10 @@ Let’s spend 15 minutes reflecting, brainstorming, and taking notes individuall
 
 ## Space for Individual Notes
 
-Elie Kahale: Creating a project that meets the needs of our DH community and is supported by the community. Currently, there are a lot of DH works that are taking place by different researchers and scholars with difficulty sharing and preserving their work. There should be a way to allow this community to express and publish their work for others to see, learn from and build on top of it. Qualified work and adopting  standards should hence be easily preserved.
-I hope in a few years, we have a platform that is adopted by several scholars around the world but mainly locally and from the region. Hopefully we are able to sustain this work and we would be looking for ways to provide more resources and tools to our scholars.
-The measurement of success is first by the number of scholars, the variety of tools, topics/methodologies adopted and finally by the quality of work preserved and published (increased citations). 
+Elie Kahale: 
+- Creating a project that meets the needs of our DH community and is supported by the community. Currently, there are a lot of DH works that are taking place by different researchers and scholars with difficulty sharing and preserving their work. There should be a way to allow this community to express and publish their work for others to see, learn from and build on top of it. Qualified work and adopting  standards should hence be easily preserved.
+- I hope in a few years, we have a platform that is adopted by several scholars around the world but mainly locally and from the region. Hopefully we are able to sustain this work and we would be looking for ways to provide more resources and tools to our scholars.
+- The measurement of success is first by the number of scholars, the variety of tools, topics/methodologies adopted and finally by the quality of work preserved and published (increased citations). 
 
 Vera al Ashkar: 
 1. Start by benchmarking Al-iwan platform, collect info about other similar platforms that might be useful for us (for example pages with highest traffic, tools, tech, web server, keywords, meta-title, and meta-description)
@@ -149,174 +150,100 @@ Let’s take 10 minutes to curate notes, questions, or concerns related to the f
 - Resources
 - Constraints
 
-## Space for individual notes
+## Individual Notes
 
 Elie Kahale: 
+- Socio-tehnical/Infrastructure:
+- Several challenges exist but this is what makes the project worth it.
+- Institutional:
+  * Based on previous experience and current situation we have/will have at the beginning limited support from the institution in terms of funding, human resources (time,...), technical resources,.....
+  * However there is also an opportunity to move this project to the top (priority) by providing funding  and/or creating momentum by reaching out to the community that is in need for such work
+- Individual:
+  * We have very talented resources in the community, AUB, the library that will do wonders if well supported to achieve this project.
+  * Of course training and other logistics will be needed.
 
+Vera al Ashkar
+- Institutional
+  * Finding the right platform that might be easily used by everyone
+  * Having the ability to add tools or plugins that will help us collect data and use it later, and organize our archived data to avoid data redundancy
+- Individual
+  * Some very useful tools might not be free, so we might have limited access
+  * Internet and electricity cut
 
-Socio-tehnical/Infrastructure:
+Donna Rajeh
+- Institutional
+  * Finding an open source platform that could accommodate the project needs/ platform funding
+  * Training on the new platform
+  * Funding for  new updates/ training
+- Individual
+  * Internet access
+  * Electricity cuts
+  * Technical know-how of the tools/new platform to be used
 
-Several challenges exist but this is what makes the project worth it.
-
-
-Institutional:
-Based on previous experience and current situation we have/will have at the beginning limited support from the institution in terms of funding, human resources (time,...), technical resources,.....
-However there is also an opportunity to move this project to the top (priority) by providing funding  and/or creating momentum by reaching out to the community that is in need for such work
-
-
-Individual:
-We have very talented resources in the community, AUB, the library that will do wonders if well supported to achieve this project.
-Of course training and other logistics will be needed.
-
-
-
-
-   * Vera al Ashkar
-
-
-
-
-   * Institutional
-   * Finding the right platform that might be easily used by everyone
-   * Having the ability to add tools or plugins that will help us collect data and use it later, and organize our archived data to avoid data redundancy
-
-
-   * Individual
-   * Some very useful tools might not be free, so we might have limited access
-   * Internet and electricity cut
-
-
-
-
-
-
-   * Donna Rajeh
-
-
-   * Institutional
-
-
-   * Finding an open source platform that could accommodate the project needs/ platform funding
-   * Training on the new platform
-   * Funding for  new updates/ training
-
-
-
-
-   * Individual
-   * Internet access
-   * Electricity cuts
-   * Technical know-how of the tools/new platform to be used
-
-
-
-
-
-
-
-
-
-
-   * Nabila Shehabeddine
-   * Resources
-   * Open access resources/ 
-   * Constraint: 
-   * multi-language (arabic , english …)
-   * Technical skills
+- Nabila Shehabeddine
+  * Resources
+    * Open access resources/ 
+  * Constraint: 
+    * multi-language (arabic , english …)
+    * Technical skills
    * Continuous funding
    * Regular update of tools
    * Copyright of materials useful to the project
 
+Samar Mikati:
+- Socio-technical/ infrastructure
+- Constraints
+  * Staff working with this project might need training for using the new platform
+  * Technical support might not be available due to economic crises
+  * Delay of work might be encountered due to the health and economic crises that the country is passing
+  * INternet access might be an issue in coming months
+  * Some material might not be suitable for publishing online
+  * Support for capturing non-Latin/ non-English content on the OS level
+- Institutional
+  * Resources
+    * Some resources might not be yet digitized or might be still copyrighted
+  * Constraints
+    * Financial and human resources are limited and will be in many years to come
+- Individual
+  * Backlog of work might hinder required commitment and productivity
 
+Till Grallert
+- Constraints: 
+  * Unicode wars: we are still bound to the metaphor of typesetting. We cannot capture the ambiguity of Arabic script in digital form. 
+  * Language barrier: interfaces and all the coding are commonly perceived of in English and follow metaphors from the Global North 
+  * Limited access to funding
+  * Including limited access to paywalled content of digitised cultural heritage from the Global South for those in the Global South, outside wealth institutions in the Global North
+  * Collection and curation biases of existing collections translate into digital collections
+  * Internet connections, electricity
+  * Individual constraints
+  * I am contingent faculty and currently an independent scholar with two small kids and limited access to childcare (due to pandemic)
+  * There is a substantial number of projects that I will have to prioritise over al-Iwan
+- Resources:
+  * As contingent faculty I bring only individual resources to the table
+  * Extensive domain knowledge of the late Ottomam Eastern Mediterranean, urban history, history of social unrest, periodical studies, digital humanities 
+  * Well connected in digital humanities circles and especially those with a focus on the MENA region, decolonial digital humanities etc.
+  * Knowledge of / experiences with infrastructures, workflows, standards, communities of practice
+  * Digital editing, TEI in Arabic contexts, metadata generation from digital editions
+  * XML etc., extensive knowledge of R, a bit of Python
 
-
-   * Samar Mikati
-
-
-   * Socio-technical/ infrastructure
-   * Constraints
-   * Staff working with this project might need training for using the new platform
-   * Technical support might not be available due to economic crises
-   * Delay of work might be encountered due to the health and economic crises that the country is passing
-   * INternet access might be an issue in coming months
-   * Some material might not be suitable for publishing online
-   * Support for capturing non-Latin/ non-English content on the OS level
-   * Institutional
-   * Resources
-   * Some resources might not be yet digitized or might be still copyrighted
-   * Constraints
-   * Financial and human resources are limited and will be in many years to come
-   *  
-   * Individual
-   * Resources
-   * Backlog of work might hinder required commitment and productivity
-
-
-
-
-
-
-
-
-
-
-   * Till Grallert
-   * Constraints: 
-   * Unicode wars: we are still bound to the metaphor of typesetting. We cannot capture the ambiguity of Arabic script in digital form. 
-   * Language barrier: interfaces and all the coding are commonly perceived of in English and follow metaphors from the Global North 
-   * Limited access to funding
-   * Including limited access to paywalled content of digitised cultural heritage from the Global South for those in the Global South, outside wealth institutions in the Global North
-   * Collection and curation biases of existing collections translate into digital collections
-   * Internet connections, electricity
-   * Individual constraints
-   * I am contingent faculty and currently an independent scholar with two small kids and limited access to childcare (due to pandemic)
-   * There is a substantial number of projects that I will have to prioritise over al-Iwan
-   * Resources:
-   * As contingent faculty I bring only individual resources to the table
-   * Extensive domain knowledge of the late Ottomam Eastern Mediterranean, urban history, history of social unrest, periodical studies, digital humanities 
-   * Well connected in digital humanities circles and especially those with a focus on the MENA region, decolonial digital humanities etc.
-   * Knowledge of / experiences with infrastructures, workflows, standards, communities of practice
-   * Digital editing, TEI in Arabic contexts, metadata generation from digital editions
-   * XML etc., extensive knowledge of R, a bit of Python
-
-
-   * Pierre France
-
-
-
-
-
-
-
-
-   * Najla Jarkas
-
-
-Institutional
-Resources:
-   * Rich collections of orientalist materials in the archives
-   * Diaries and undigitized materials in the archives that would be so exciting to share with the world
-   * Digital experts working at AUB library that can contribute to the project development
-
-
-Constraints:
-   * People have heavy workloads and have to answer to their bosses
-   * Team members have different work schedules and working patterns [for example, I work during weekends and holidays]
-   * Financial constraints at AUB, so we will need external funding
-        
-Individual:
-Resources:
-   * My knowledge and interest in DH methods and tools
-   * Large corpus of Orientalist fan fiction available for free on Gutenberg
-   * My network of DH experts and students
-Constraints:
-   * I will be travelling next year and may not be able to be in Lebanon to have face-to-face meetings and connect with the group
-   * 
-
-
-
-
-
+Najla Jarkas:
+- Institutional
+  * Resources:
+    * Rich collections of orientalist materials in the archives
+    * Diaries and undigitized materials in the archives that would be so exciting to share with the world
+    * Digital experts working at AUB library that can contribute to the project development
+  * Constraints:
+    * People have heavy workloads and have to answer to their bosses
+    * Team members have different work schedules and working patterns [for example, I work during weekends and holidays]
+    * Financial constraints at AUB, so we will need external funding
+- Individual:
+  * Resources:
+    * My knowledge and interest in DH methods and tools
+    * Large corpus of Orientalist fan fiction available for free on Gutenberg
+    * My network of DH experts and students
+  * Constraints:
+    * I will be travelling next year and may not be able to be in Lebanon to have face-to-face meetings and connect with the group
+ 
 ## Infrastructure: Initial Observations + Next Steps
 
 - ***Connectivity***: access and use; ability to withstand limited or intermittent internet
@@ -533,62 +460,52 @@ Incoming Letters to Smith who was a resident in Syria 1883-1891
 
 ## Prompt
 
-Many thanks to those who have contributed toward a list of existing archival collections and projects: link to this list (page 14) in this Google Doc
-
-
-I’ve created a draft Google Form for collecting information about these collections and projects:
-            * Link to Google Form for existing archival projects
-            * Link to access Google Form results
-            * Link to edit or modify Google Form
-
+Many thanks to those who have contributed toward a list of existing archival collections and projects. I’ve created a draft Google Form for collecting information about these collections and projects:
+- Link to Google Form for existing archival projects
+- Link to access Google Form results
+- Link to edit or modify Google Form
 
 A few questions about how we proceed:
-            * What parts of the form need to be modified, or what other questions need to be on the form?
-
-
-            * Do we want to spend time completing this form for the list of archival collections and projects now, or is that something folks want to do on your own time?
-
-
-            * Are folks comfortable completing this form for collections or projects they added to the list, or do we need a different approach?
-
+- What parts of the form need to be modified, or what other questions need to be on the form?
+- Do we want to spend time completing this form for the list of archival collections and projects now, or is that something folks want to do on your own time?
+- Are folks comfortable completing this form for collections or projects they added to the list, or do we need a different approach?
 
 Other notes on this process/workflow:
-            * How much information is needed about the collection at this point in the process (date, creator, etc)?
-            * What is the goal of this information, i.e. what do we need this information to accomplish?
+- How much information is needed about the collection at this point in the process (date, creator, etc)?
+- What is the goal of this information, i.e. what do we need this information to accomplish?
 
+## Next Steps
+- Other modifications to the Google form
+  * For example, “If unsure, contact….”
+  * Unknown/unsure option
+  * Contact person for questions about form
+- Conversation about narrowing scope/focus for what collections to enter data for
+- Point people for working with entered data or data entry workflows 
+- We can show an example of where to get the required information for the form entries
 
-Next steps:
-            * Other modifications to the Google form
-            * For example, “If unsure, contact….”
-            * Unknown/unsure option
-            * Contact person for questions about form
-            * Conversation about narrowing scope/focus for what collections to enter data for
-            * Point people for working with entered data or data entry workflows 
-            * We can show an example of where to get the required information for the form entries
-Use cases (user stories) and desired functionality
+# Use cases (user stories) and Desired Functionality
+
+## Prompt
+
 Let’s spend 15 minutes writing out use cases or user stories for this project.
 
-
 Possible user communities:
-            * Archivists
-            * Librarians
-            * Instructors
-            * Students
-            * Researchers
-            * Who else?
-
+ - Archivists
+- Librarians
+- Instructors
+- Students
+- Researchers
+- Who else?
 
 A use case or a user story is a brief narrative that describes how a user (or type of user) interacts with, navigates, and uses a project or resource. Some questions that might get us started:
-            * How does this user find or become aware of this resource?
-            * What is the context or situation in which this user interacts with this resource?
-            * How will this user interact with or use this resource? What kinds of tasks or actions will they be doing?
+- How does this user find or become aware of this resource?
+- What is the context or situation in which this user interacts with this resource?
+- How will this user interact with or use this resource? What kinds of tasks or actions will they be doing?
 
+## Notes
 
-Space for notes:
-
-
-            * Till
-Teaching a course on Orientalism, I want students to find visual material online with no limit as to the platforms they are utilising. As soon as they find material, lets say digital facsimiles of postcards, we will need to establish some metadata for the original material artefact, be able to link to that specific digitised instance of the artefact, and comment on /remix this digitised artefact in a course specific context. Some students will focus on the captions and analyse a) the terminology used to describe the depicted scene, b) the accuracy of the caption (does the caption really relate to the image?). Others will look at the pictorial material and try to classify the displayed / depicted locations and objects probably even with machine vision. The aim is to get a sense of how a) the original physical artefact functioned in its specific cultural context and b) how the digitally remediated artefact carries on/ challenges these “original” functions.
+Till:
+- Teaching a course on Orientalism, I want students to find visual material online with no limit as to the platforms they are utilising. As soon as they find material, lets say digital facsimiles of postcards, we will need to establish some metadata for the original material artefact, be able to link to that specific digitised instance of the artefact, and comment on /remix this digitised artefact in a course specific context. Some students will focus on the captions and analyse a) the terminology used to describe the depicted scene, b) the accuracy of the caption (does the caption really relate to the image?). Others will look at the pictorial material and try to classify the displayed / depicted locations and objects probably even with machine vision. The aim is to get a sense of how a) the original physical artefact functioned in its specific cultural context and b) how the digitally remediated artefact carries on/ challenges these “original” functions.
             * Challenges: 
             * There is a physical artefact with multiple copies.
             * There are multiple digitised copies of this artefact all with differing associated metadata.
@@ -607,173 +524,111 @@ Teaching a course on Orientalism, I want students to find visual material online
 
 
 
-            * Najla’
-Users can become aware of this site through research guides 
+Najla:
+- Users can become aware of this site through research guides 
+- Digital Humanities/Literature/History faculty can use this site to teach students DH methods such as textual analysis, mapping of literary texts, and network analysis, etc and tools, using the Orientalist texts in the corpora collected for such lessons/tutorials. Maps created from the texts could be compared to maps in the collections. Attitudes to the Orient can be analysed through DH tools such as Antconc and Voyant that could go against what is known in the field of Orientalism.
+- Students' projects and experiments could be posted on the site as resources for other students and teachers. 
+- Digitized Cultural items could be used by faculty in their classroom to give students a sense of how it felt like living, traveling, and working in the region at particular moments of history that could be contrasted with Western notions of the Levant. 
+- Blogs and reflections by people in the community could also be of interest to researchers. 
 
-
-Digital Humanities/Literature/History faculty can use this site to teach students DH methods such as textual analysis, mapping of literary texts, and network analysis, etc and tools, using the Orientalist texts in the corpora collected for such lessons/tutorials. Maps created from the texts could be compared to maps in the collections. Attitudes to the Orient can be analysed through DH tools such as Antconc and Voyant that could go against what is known in the field of Orientalism.
-
-
-Students' projects and experiments could be posted on the site as resources for other students and teachers. 
-
-
-Digitized Cultural items could be used by faculty in their classroom to give students a sense of how it felt like living, traveling, and working in the region at particular moments of history that could be contrasted with Western notions of the Levant. 
-
-
-Blogs and reflections by people in the community could also be of interest to researchers. 
-
-
-            * Elie
-Faculty/Students (part of an academic activity) or any scholar (doing a research) can use the platform to upload their digital work. The platform will allow them to have a unique workspace to do some DH activity and to follow a certain workflow, guideline or procedure to upload/share their digital work that should be related to orientalism. Their work should be made available for others to check and cite. 
+Elie:
+- Faculty/Students (part of an academic activity) or any scholar (doing a research) can use the platform to upload their digital work. The platform will allow them to have a unique workspace to do some DH activity and to follow a certain workflow, guideline or procedure to upload/share their digital work that should be related to orientalism. Their work should be made available for others to check and cite. 
 For example, students are asked by their professor to choose images about orientalism and comment on these photos. Students should be introduced to the framework/platform to accomplish their assignment. Qualified work should remain on the system to be cited by other scholars and build on top of it.
 As a digital archivist, the digital objects created and referenced should be archived and preserved.
 Archivist/librarian can work with students to help them identify item about orientalism form the web.
 
+Nabila:
+- Librarian/ students: Librarian can direct students working on the topic to this platform
+- Librarian/ faculty /students : information session where the librarian will introduce students to this platform. Highlights the best way to reuse content in their assignment to create new content, how to add what they created in the platform, how to give attribution and cite.  
+- Librarian: Added this platform to a research guide created by the librarian to make it more visible to other users.
 
+Samar:
+- Researchers / Faculty and Students can use Iwan in their research on Orientalism which should primarily be based on the existing AUB collection in addition to other collections from other local institutions like OIB. These researchers should be able to reflect on the material as well as add more collections if possible. This editing and ability to change should be controlled by the team as to control the quality of the material included by other members. 
 
-
-
-
-
-
-
-
-
-
-            * Nabila
-Librarian/ students: Librarian can direct students working on the topic to this platform
-Librarian/ faculty /students : information session where the librarian will introduce students to this platform. Highlights the best way to reuse content in their assignment to create new content, how to add what they created in the platform, how to give attribution and cite.  
-Librarian: Added this platform to a research guide created by the librarian to make it more visible to other users.
-
-
-
-
-
-
-            * Samar
-
-
-Researchers / Faculty and Students can use Iwan in their research on Orientalism which should primarily be based on the existing AUB collection in addition to other collections from other local institutions like OIB. These researchers should be able to reflect on the material as well as add more collections if possible. This editing and ability to change should be controlled by the team as to control the quality of the material included by other members. 
-
-
-
-
-
-
-
-
-            * Donna
-
-
-
-
-Technical conversation about metadata, languages, platforms, etc
-
+# Questions to considerfor Wednesday 7/28
 
 From Monday:
-            * Curation- bringing together and facilitating access to existing archival collections; not just a project highlighting digitized collections- building on and connecting existing work (in way that facilitate new forms of access) 
-            * Sustainability, or scalability- capacity to incorporate existing and new collections, provide forms of access that facilitate variety of digital humanities methods or uses
-            * Annotation- particular types of interactivity and user engagement (with a focus on educational teaching/research contexts); language of remixing comes to mind (narrative, context, creativity)
-            * Community and education- active and ongoing use of resources and platform; development of instructional resources; highlighting or showcasing scholarly (and student) work created with and through the platform
-
+- Curation- bringing together and facilitating access to existing archival collections; not just a project highlighting digitized collections- building on and connecting existing work (in way that facilitate new forms of access) 
+- Sustainability, or scalability- capacity to incorporate existing and new collections, provide forms of access that facilitate variety of digital humanities methods or uses
+- Annotation- particular types of interactivity and user engagement (with a focus on educational teaching/research contexts); language of remixing comes to mind (narrative, context, creativity)
+- Community and education- active and ongoing use of resources and platform; development of instructional resources; highlighting or showcasing scholarly (and student) work created with and through the platform
 
 Desired functionality:
-            * Browsing or searching to find items and materials across these collections
-            * Is item-level metadata enough?
-            * Item-level metadata and keywords
-            * Are images or representations of objects also needed?
-            * Yes, representations of object would make searching easier
-            * What kinds of faceting/filtering functionality is needed in the search interface?
-            * Key word search, classification, categories (object type), date, geography, author, DH technology, 
-            * Do users need to be able to build or curate collections or sets of items?
-            * Yes, users can build their own corpora of texts, collection of images, etc
-            * How to provide information needed for proper citation/attribution?
-            * A note at the bottom showing how to cite items/results can be added
-            * Interacting with materials to use in or for digital projects
-            * Are users adding to or enriching item information via the platform?
-            * How are they doing that, how does that connect back to institutional metadata?
-            * Are users downloading the item or material to use in another platform or tool?
-            * Users download items, follow tutorials, add the items to open source tools (Voyant, Palladio, Antconc, and post their results with critical analysis.
-            * How are users interacting with the items via the online platform/interface?
-            * Annotation, curation, etc. 
-            * Users can add their narratives around cultural items already posted on the platforms and contribute their own items (photos, maps, postcards, etc)
-            * Sharing and accessing educational resources
-            * What types of curriculum objects or instructional materials would these encompass (text files, video content, etc)?
-            * Corpora of Orientalist texts, datasets with structured data on authors’ geolocations of places they traveled to, geolocations of places in their texts, word frequencies (themes in their texts for example) results of topic modeling and word trends, example: Mapping the Lakes
-            * To what degree do these materials focus on how to use particular technologies versus ways of interacting with collections?
-            * Ways on how to use DH methods and technologies could be accompanied by previous results as pedagogical examples for school teachers/college faculty/users.
-            * Users’ narratives around cultural items are also important for community engagement and crowdsourcing. 
-            * Webinars on how to integrate some of the items or project experiments in syllabi would be helpful for faculty.
-            * What would it look like for users to submit their own educational resources?
-            * Faculty could link their tutorials/syllabi/lesson plans and students’ projects. These could be linked to research and study guides
-            * New findings, newly created datasets could be submitted by users following our guidelines
-            * Example: http://mappingdubliners.org/contribute-to-the-blog/
-            * Example: The Old Bailey
-            * Highlighting community work and contributions
-            * What types of work or projects would this include (video projects, timelines, interactive maps, writing, image galleries, etc)?
-            * Example of a project that features mapping projects: Mapping Dubliners
-            * What types of projects would you want users to be able to produce or create using the platform?
-            * Digital timelines, Storymaps, network visualizations, interactive maps (Neatline)
-            * Users can download some of the items in the collections, create their projects on their WordPress or Google Sites, Twitter, add their own items, and link them to our platform. (Instructions on how to do this would be provided by us)
-            * Feedback/reviews could be offered to them to improve or develop their work
-            * Every month or semester, selections of new projects and contributions could be highlighted.
-            *             * Is the goal hosting this work on the platform, or just highlighting work that might be hosted elsewhere?
-            *             * 
-
-
-
-
-
-
+- Browsing or searching to find items and materials across these collections
+  * Is item-level metadata enough?
+    * Item-level metadata and keywords
+  * Are images or representations of objects also needed?
+    * Yes, representations of object would make searching easier
+  * What kinds of faceting/filtering functionality is needed in the search interface?
+    * Key word search, classification, categories (object type), date, geography, author, DH technology, 
+  * Do users need to be able to build or curate collections or sets of items?
+    * Yes, users can build their own corpora of texts, collection of images, etc
+   * How to provide information needed for proper citation/attribution?
+    * A note at the bottom showing how to cite items/results can be added
+- Interacting with materials to use in or for digital projects
+  * Are users adding to or enriching item information via the platform?
+  * How are they doing that, how does that connect back to institutional metadata?  
+  * Are users downloading the item or material to use in another platform or tool?
+    * Users download items, follow tutorials, add the items to open source tools (Voyant, Palladio, Antconc, and post their results with critical analysis.
+  * How are users interacting with the items via the online platform/interface?
+    * Annotation, curation, etc.
+    * Users can add their narratives around cultural items already posted on the platforms and contribute their own items (photos, maps, postcards, etc)
+- Sharing and accessing educational resources
+  * What types of curriculum objects or instructional materials would these encompass (text files, video content, etc)?
+    * Corpora of Orientalist texts, datasets with structured data on authors’ geolocations of places they traveled to, geolocations of places in their texts, word frequencies (themes in their texts for example) results of topic modeling and word trends, example: [Mapping the Lakes](https://www.lancaster.ac.uk/mappingthelakes/Exploratory%20Maps.htm)
+  * To what degree do these materials focus on how to use particular technologies versus ways of interacting with collections?
+    * Ways on how to use DH methods and technologies could be accompanied by previous results as pedagogical examples for school teachers/college faculty/users.
+    * Users’ narratives around cultural items are also important for community engagement and crowdsourcing. 
+    * Webinars on how to integrate some of the items or project experiments in syllabi would be helpful for faculty.
+  * What would it look like for users to submit their own educational resources?
+    * Faculty could link their tutorials/syllabi/lesson plans and students’ projects. These could be linked to research and study guides
+    * New findings, newly created datasets could be submitted by users following our guidelines
+      * Example: [Mapping Dubliners blog contributions](http://mappingdubliners.org/contribute-to-the-blog)
+      * Example: [The Old Bailey API](https://www.oldbaileyonline.org/static/API.jsp)
+    * Highlighting community work and contributions
+  * What types of work or projects would this include (video projects, timelines, interactive maps, writing, image galleries, etc)?
+    * Example of a project that features mapping projects: [Mapping Dubliners](http://mappingdubliners.org/about/)
+  * What types of projects would you want users to be able to produce or create using the platform?
+    * Digital timelines, Storymaps, network visualizations, interactive maps (Neatline)
+    * Users can download some of the items in the collections, create their projects on their WordPress or Google Sites, Twitter, add their own items, and link them to our platform. (Instructions on how to do this would be provided by us)
+    * Feedback/reviews could be offered to them to improve or develop their work
+    * Every month or semester, selections of new projects and contributions could be highlighted.
+   * Is the goal hosting this work on the platform, or just highlighting work that might be hosted elsewhere?
 
 Further conversation on minimal computing:
-            * How much of a concern is minimizing technical needs in terms of hosting the project? What are some of the priorities (or concerns) around hosting the project?
-            * Priorities/Concerns:
-            * Cost
-            * Maintenance
-            * Stability
-            * Solutions:
-            * https://reclaimhosting.com/
-            * https://reclaim.cloud/
-            * 
+- How much of a concern is minimizing technical needs in terms of hosting the project? What are some of the priorities (or concerns) around hosting the project?  
+  * Priorities/Concerns:
+    * Cost
+    * Maintenance
+    * Stability
+  * Solutions:
+    * https://reclaimhosting.com/
+    * https://reclaim.cloud/
 
-            * How much of a concern is minimizing required technologies for accessing or interacting with the project? What are some of the priorities (or concerns) around users accessing the project?
-            * Priorities/Concerns:
-            * Internet connectivity
-            * Technology devices
-            *             * Solutions: 
-            *             *             * 
+- How much of a concern is minimizing required technologies for accessing or interacting with the project? What are some of the priorities (or concerns) around users accessing the project?
+  * Priorities/Concerns:
+    * Internet connectivity
+    * Technology devices
+  * Solutions: 
 
-What are some of the questions/concerns about developing resources or other materials using Google Drive products?
-            * Placeholder for notes
+- What are some of the questions/concerns about developing resources or other materials using Google Drive products?
 
+- Based on what we’re seeing in the information about existing collections or projects, what work would be involved in combining or bringing together these materials?
+   * What kind of item-level metadata is needed? What is available (and how, or in what format?
+   * What possibilities exist for bringing item-level metadata into a shared environment (for exploration, search, etc)
+   * Are there stable links or connections to individual resources?
 
+# Wednesday 7/28
 
+## Outline
+- Questions or other follow-up from previous sessions
+- Reflecting on questions from yesterday
+- Project sustainability workshop
+- Wireframing
+- Thursday 7/29 schedule and next steps
+- Metadata and data modeling workshop
 
-Based on what we’re seeing in the information about existing collections or projects, what work would be involved in combining or bringing together these materials?
-            * What kind of item-level metadata is needed? What is available (and how, or in what format?
-            * What possibilities exist for bringing item-level metadata into a shared environment (for exploration, search, etc)
-            * Are there stable links or connections to individual resources?
-Next Steps for Wednesday 7/28
-Further conversation about Google Form data entry workflow for existing archival collections/projects
-
-
-
-
-________________
-
-
-
-
-Wednesday 7/28
-Outline
-            * Questions or other follow-up from previous sessions
-            * Reflecting on questions from yesterday
-            * Project sustainability workshop
-            * Wireframing
-            * Thursday 7/29 schedule and next steps
-            * Metadata and data modeling workshop
-Notes from Yesterday’s Questions
+## Notes from Yesterday’s Questions
 
 
             * Possibly having browsing/searching at the collection (or sub-collection) level, rather than item level
@@ -803,9 +658,7 @@ Notes from Yesterday’s Questions
             * Preservation or sustainability of projects submitted or highlighted in the site
 
 
-
-
-Sustainability Workshop Follow-Up, Conversations, and Next Steps
+## Sustainability Workshop Follow-Up, Conversations, and Next Steps
             * Link to Google Drive folder with resources
 
 
@@ -815,8 +668,9 @@ Sustainability Workshop Follow-Up, Conversations, and Next Steps
             * Useful ways to think about the project for future funding application materials
 
 
-Wireframing
-Data model for discovery interface
+## Wireframing
+
+### Data model for discovery interface
             * Jamboard link
             * Question about mapping data from archival finding aids to data model
             * Other data components that would be part of model but not public user interface (permalinks, object identifiers, etc)
@@ -831,14 +685,14 @@ Data model for discovery interface
 
 
 
-Website components:
+### Website components:
             * Contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
             * Platform- static site (HTML, Jekyll, etc) versus CMS (WordPress)
 
 
   
 
-Next Steps for Thursday 7/29
+## Next Steps for Thursday 7/29
             * Starting to work on documentation/technical workflows
             * Continue thinking about data model and website architecture
             * Continue thinking about platforms- static sites versus CMS (WordPress, Omeka)
@@ -854,80 +708,23 @@ Next Steps for Thursday 7/29
             * I’m working on coordinating a conversation with a couple of other project teams that are working with non-English and multilingual metadata- stay tuned!
 
 
+## Modeling and Metadata Workshop
 
+# Thursday 7/29
 
-
-
-Modeling and Metadata Workshop
-
-
-            * Placeholder for notes
-
-
-
-
-________________
-
-
-
-
-Thursday 7/29
-
-
-Outline:
+## Outline:
             * Continue thinking about data model and website architecture
             * Continue thinking about platforms- static sites versus CMS (WordPress, Omeka)
             * Community conversation about working with non-English or multilingual metadata
             * Zoom link
             * Starting to work on documentation/technical workflows
             * Thinking more about contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
-Data Model and Website Architecture
-            * Placeholder for notes
-
-
-Platforms: Static Site Versus CMS
-
-
-            * Placeholder for notes
-
-
-Metadata Community Conversation
-
-
-            * Zoom link
-            * Placeholder for notes
-
-
-Documentation and Technical Workflows
-
-
-            * Placeholder for notes
-
-
-Contribution Guidelines
-            * Placeholder for notes
 
 
 
 
-Next Steps for Friday 7/30
-            * Team time: 11am-1pm CST
-            * Final session: 1-2pm CST
-            * Zoom link
+
+# Friday 7/30
 
 
-________________
-
-
-
-
-Friday 7/30
-
-
-Outline:
-            * Placeholder
-            * 
-
-
-
-[a]This seems to be an important tension to consider. On the other hand, the WAX interface is both easy to use and rather user friendly.
+## Outline
