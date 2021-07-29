@@ -432,21 +432,18 @@ Resources posted by Nabila:
   * [Mayfair Gallery, "Orientalist Paintings: 19th Century Fantasies of the East"](https://www.mayfairgallery.com/blog/orientalist-paintings-19th-century-fantasies-east)
 
 Resources posted by Samar:
-A selection of Archives and Special Collections from AUB Archives on Orientalism
-ARCHIVAL MATERIAL (we will choose samples of these)
-
-
-   * Daniel bliss Collection
-Correspondence D.B. with David Stuart Dodge
-Correspondence D.B. with his family, YMCA, and various coordinates
-   * Bayard Dodge: Personal Letters early 20th C
-   * Edward Nickoley Diary on famine during WWI in Beyrouth, Syria
-   * Letters by SPC (AUB) alumni experience during WWI (not digitized)
-   * Oral History Interview (selections of these personalities experiences during WWI this way we can compare the experiences of the locals with those of the missionaries)
-   * Shahin Al-Salibi, AUB alumnus, eye surgeon fought in the Ottoman Army during World War I, November 1968; AUB035A [60min.]
-   * Suleiman Al-Salibi, Lebanese physician who served in the Egyptian army father of AUB Emeritus Professor Kamal Salibi, October 1968; AUB033A/B [1h. 26min.]; AUB034A/B [1h. 9min.] ‐
-   * Anbara Salam Al Khalidi, a prominent women activist committed to education and women's rights, March 13, 1970; AUB072 [1h)
-   * Raymond Eddé, Lebanese legislator and minister, February 25, 1970; AUB055A [55min.]; AUB085A/B [2h. 3min.]; AUB086A/B [2h. 1min.]; AUB087A/B [1h. 40min.]; AUB105A/B [1h. 40min.] ‐ Saeb Salam; Prime Minister and member of the Lebanese Parliament during the 20th Century AUB056A/B [61min.]; AUB082A/B [2h. 4min.]; AUB083A/B [2h. 3min.]; AUB084A [34min.]; AUB106A/B [1h. 51min.]
+- Archival Material
+  * Daniel bliss Collection
+    * Correspondence D.B. with David Stuart Dodge
+    * Correspondence D.B. with his family, YMCA, and various coordinates
+  * Bayard Dodge: Personal Letters early 20th C
+  * Edward Nickoley Diary on famine during WWI in Beyrouth, Syria
+  * Letters by SPC (AUB) alumni experience during WWI (not digitized)
+  * Oral History Interview (selections of these personalities experiences during WWI this way we can compare the experiences of the locals with those of the missionaries)
+  * Shahin Al-Salibi, AUB alumnus, eye surgeon fought in the Ottoman Army during World War I, November 1968; AUB035A [60min.]
+  * Suleiman Al-Salibi, Lebanese physician who served in the Egyptian army father of AUB Emeritus Professor Kamal Salibi, October 1968; AUB033A/B [1h. 26min.]; AUB034A/B [1h. 9min.]
+  * Anbara Salam Al Khalidi, a prominent women activist committed to education and women's rights, March 13, 1970; AUB072 [1h)
+  * Raymond Eddé, Lebanese legislator and minister, February 25, 1970; AUB055A [55min.]; AUB085A/B [2h. 3min.]; AUB086A/B [2h. 1min.]; AUB087A/B [1h. 40min.]; AUB105A/B [1h. 40min.] ‐ Saeb Salam; Prime Minister and member of the Lebanese Parliament during the 20th Century AUB056A/B [61min.]; AUB082A/B [2h. 4min.]; AUB083A/B [2h. 3min.]; AUB084A [34min.]; AUB106A/B [1h. 51min.]
    * Scans from a news papers on famine in the Syria
    * الحرب العظمى : مجموعة تاريخية مصورة تبحث في التاريخ.
    * Al-Ḥarib al-ʻuẓmá : majmūʻah tārīkhīyah muṣawwarah tabḥathu fī al-tārīkh
@@ -459,102 +456,82 @@ Brief Chronicle of the Syrian Missionaries
    * Henrietta Buttler smith (not digitized)
 Incoming Letters to Smith who was a resident in Syria 1883-1891
    * American Press (not digitized): Selected items
-         PHOTOS
-      * The Blatchford Collection of Photographs:
--    Ph:1/405
-      * Indigènes moulant du blé à Jérusalem [Two women, one boy, a pivotal grinding stone, wheat and scale with weights]
-Jerusalem/People  
--        Ph:1/753
-      * Des femmes arabes portant de l'eau du Nil [Women filling earthen jars with water from Nile]
--        Ph:1/164
-      * [On mount: Arab women] [Four Bedouins]
-[Syria?/People]
--        Ph:1/733
-      * Chanteuse Arabe avec la Tarabucca [Arab woman singer with tarabucca, veiled face and ornaments
--        Ph:1/735s
-      * [On mount: Woman and child] [veiled woman with cylinder between eyes: in studio]
--        Ph:1/744s
-      * [Man and woman eating bread and tu'miah (beans), water carrier emptying water in large jar arabesques on wall.
--        Ph:1/731s
-      * [On mount: Egypt [Two seated] Abyssinian women] [Elaborate ornaments on clothes, legs and feet]
-      * Dr. Franklin Moore Photo Collection
-         *  Mary Bliss Dale? with faculty? and baby crib. Worker plowing ground. 75
-         * Ras Beirut: cactus lane. 1898. 01
-         * Eye clinic. Patients brought sometimes food (zawwadeh) in baskets as fees. November 1897. 62
-         * Dr. George E. Post operating. 61
-         * Abdel Aziz and Bliss streets, Corner of. Hospital wall on right. 07
-         * Cornelius Van Dyck Photo Collection
-         * Isa Iskandar Ma’luf Postcards Collection:
-         * The Holy Land : Jerusalem by Raphael Tuck & Sons, England [1903]
-         * -   Jounie
-         * -  Jounieh : Gare de Sarba by E. Cailteux Lille, France [1923]
-         *  Menageres Arabes-Liban by Jean Tourosian
-         * Haifa (Palestine) : Couvent du Mt. Carmel by R. Zedda, Napoli
-         *  Jerusalem : Garden of Gethsemane by Weltpost-Verein, Germany  
-         Travel Books
-         * A handbook for travelers in Syria and Palestine part In by John Murray , 1868
-         * A handbook for travelers in Syria and Palestine Part II,  by John Murray
-         * Palestine and Syria : handbook for travellers, 1894
-         * Palestine and Syria : handbook for travelers, 1898
-         * Palestine and Syria with routes through Mesopotamia and Babylion and the Island of Cyprus, 1912
-         * Le Tourisme en Syrie et au Liban, 1920
-         *  دليل الشوير ونواحيها : جمال، جلال، مناخ، جذل، طمأنينة، أنس، إرتياح ، 1923
-Manuscripts by Orientalists
-         * Cornelius Van Dyck (8 items only one digitized)
-         * في اللوغارذمات والانساب / MS 512.7:V24fA:c.1  
-         * كتاب في علم الجبر   MS 512:V24kA:c.1  
-         * George Edward Post (digitized)
-         *  قاموس النبات والحيوان  MS:581.03:P85qA
-Books
-         * Impressions of Syria, Lebanon, Alaouite State, and Djebel Druze. CA 915.69:C777i  [1932]
-         * Relation d'un sejour de plusieurs années a Beyrout et dans le Liban. CA 915.692:G991r:v.1-2:c.1 1847
-         * بيروت ولبنان منذ قرن ونصف قرن  1949-1950-CA 915.692:G991rA:v.1 (ACO)
-         * Beyrout et le Liban 1850 CA 915.692:G991ra
-         * Syria and Lebanon: holidays off the beaten track. 1936. CA 915.69:S995sE
-         * Oriental encounters: Palestine & Syria, 1894-1896. CA 915.69:P59o:c.1
-         * Pictorial journey through the Holy Land, 1863. CA 915.69:P61p
-         * Voyage en Syrie et en Egypte pendant les années 1783, 84 et 85. 1787. CA 915.69:V928v:v.1:c.1  
-         * Old and new places in Palestine, Syria and Lebanon 1946, CA 915.69:M35o:c.1
-         * Fifty-three years in Syria CA 922.573:J581f:v.1-v 2
-         * That they may have life CA:AUB 378.5692:P417t:1941
-         * Les orientalistes au Liban 1989 CA:F 760.09:O692o
-         * Description de l'Egypte   CA 916.2:M22dF:c.1
+- Photographs
+  * The Blatchford Collection of Photographs:
+    * Ph:1/405
+  * [Indigènes moulant du blé à Jérusalem](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/405.html) [Two women, one boy, a pivotal grinding stone, wheat and scale with weights]
+    * Jerusalem/People
+    * Ph:1/753
+  * [Des femmes arabes portant de l'eau du Nil](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/753.html) [Women filling earthen jars with water from Nile]
+    * Ph:1/164
+  * [On mount: Arab women](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/164.html) [Four Bedouins]
+    * [Syria?/People]
+    * Ph:1/733
+  * [Chanteuse Arabe avec la Tarabucca](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/733.html) [Arab woman singer with tarabucca, veiled face and ornaments
+    * Ph:1/735s
+  * [On mount: Woman and child](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/735s.html) [veiled woman with cylinder between eyes: in studio]
+    * Ph:1/744s
+  * [Man and woman eating bread and tu'miah (beans)](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/744s.html), water carrier emptying water in large jar arabesques on wall
+    * Ph:1/731s
+  * [On mount: Egypt [Two seated] Abyssinian women](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/731s.html) [Elaborate ornaments on clothes, legs and feet]
+  * Dr. Franklin Moore Photo Collection
+    * Mary Bliss Dale? with faculty? and baby crib. Worker plowing ground. 75
+    * Ras Beirut: cactus lane. 1898. 01
+    * Eye clinic. Patients brought sometimes food (zawwadeh) in baskets as fees. November 1897. 62
+    * Dr. George E. Post operating. 61
+    * Abdel Aziz and Bliss streets, Corner of. Hospital wall on right. 07
+  * Cornelius Van Dyck Photo Collection
+  * Isa Iskandar Ma’luf Postcards Collection:
+  * The Holy Land : Jerusalem by Raphael Tuck & Sons, England [1903]
+    * Jounie
+    * Jounieh : Gare de Sarba by E. Cailteux Lille, France [1923]
+    * Menageres Arabes-Liban by Jean Tourosian
+    * Haifa (Palestine) : Couvent du Mt. Carmel by R. Zedda, Napoli
+    * Jerusalem : Garden of Gethsemane by Weltpost-Verein, Germany  
+- Travel Books
+  * A handbook for travelers in Syria and Palestine part In by John Murray , 1868
+  * A handbook for travelers in Syria and Palestine Part II,  by John Murray
+  * Palestine and Syria : handbook for travellers, 1894
+  * Palestine and Syria : handbook for travelers, 1898
+  * Palestine and Syria with routes through Mesopotamia and Babylion and the Island of Cyprus, 1912
+  * Le Tourisme en Syrie et au Liban, 1920
+  * دليل الشوير ونواحيها : جمال، جلال، مناخ، جذل، طمأنينة، أنس، إرتياح ، 1923
+- Manuscripts by Orientalists
+  * Cornelius Van Dyck (8 items only one digitized)
+    * في اللوغارذمات والانساب / MS 512.7:V24fA:c.1  
+    * كتاب في علم الجبر   MS 512:V24kA:c.1  
+  * George Edward Post (digitized)
+    * قاموس النبات والحيوان  MS:581.03:P85qA
+- Books
+ * Impressions of Syria, Lebanon, Alaouite State, and Djebel Druze. CA 915.69:C777i  [1932]
+ * Relation d'un sejour de plusieurs années a Beyrout et dans le Liban. CA 915.692:G991r:v.1-2:c.1 1847
+ * بيروت ولبنان منذ قرن ونصف قرن  1949-1950-CA 915.692:G991rA:v.1 (ACO)
+ * Beyrout et le Liban 1850 CA 915.692:G991ra
+ * Syria and Lebanon: holidays off the beaten track. 1936. CA 915.69:S995sE
+ * Oriental encounters: Palestine & Syria, 1894-1896. CA 915.69:P59o:c.1
+ * Pictorial journey through the Holy Land, 1863. CA 915.69:P61p
+ * Voyage en Syrie et en Egypte pendant les années 1783, 84 et 85. 1787. CA 915.69:V928v:v.1:c.1  
+ * Old and new places in Palestine, Syria and Lebanon 1946, CA 915.69:M35o:c.1Fifty-three years in Syria CA 922.573:J581f:v.1-v 2
+ * That they may have life CA:AUB 378.5692:P417t:1941
+ * Les orientalistes au Liban 1989 CA:F 760.09:O692o
+ * Description de l'Egypte   CA 916.2:M22dF:c.1
 
-            *             * Corpus of Orientalist texts (linked to entries on Najla’s Drive)
-            * Explore additional existing digital humanities projects
-            * Digital history projects
-I love the Tutorials posted by Katie and the Experimental Results created by the course instructor, Sarah Pucell, in this course site/project. Very inspiring and similar to what I had in mind but I would add resources and datasets for the tutorials and experiments in our project repository/collections
-            * Reviews in Digital Humanities journal/project directory
-            * Minimal Computing working group
+ Resources posted by Najla:
+ - Corpus of Orientalist texts (linked to entries on Najla’s Drive)
 
+# Tuesday 7/27
 
+## Outline
+- Questions or other follow-up from previous sessions
+- Exploring and documenting existing archival projects 
+- Technical conversation about metadata, languages, platforms, etc
+- Reverse engineering existing digital humanities projects
+- Use cases (user stories) and desired functionality
+- Wednesday 7/28 schedule and next steps
 
+# Exploring and documenting existing archival projects
 
-            * Things we do tomorrow:
-            * Technical conversation about metadata, languages, platforms, etc (Till, Elie, Pierre, Najla)
-            * Reverse engineer existing digital humanities projects- thinking about back-end architecture, platforms, etc.
-
-
-Activities that are till-essential first
-
-
-
-
-________________
-
-
-Tuesday 7/27
-Outline
-            * Questions or other follow-up from previous sessions
-            * Exploring and documenting existing archival projects 
-            * Technical conversation about metadata, languages, platforms, etc
-            * Reverse engineering existing digital humanities projects
-            * Use cases (user stories) and desired functionality
-            * Wednesday 7/28 schedule and next steps
-
-
-Exploring and documenting existing archival projects
-
+## Prompt
 
 Many thanks to those who have contributed toward a list of existing archival collections and projects: link to this list (page 14) in this Google Doc
 
