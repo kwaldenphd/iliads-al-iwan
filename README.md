@@ -10,7 +10,7 @@
 - Form template for archival collections information
   * Form
     * [Google Form link](https://docs.google.com/forms/d/e/1FAIpQLSfatQEaoWoi3EcRX2LUS78COgQuAXugAYnnqBnbWNc1Ls4cRQ/viewform?usp=sf_link)
-    * [`.pdf`](Google_Form_Template.pdf)
+    * [`.pdf`](/blob/main/files/Google_Form_Template.pdf)
     * [`.md`]
   * [Google Drive link to edit form](https://docs.google.com/forms/d/1gqAwq6bGtUB24MJScYp7431pHlys4MVzXseyubdsHdY/edit?usp=sharing)
   * Form Responses
