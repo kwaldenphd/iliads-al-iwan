@@ -1,7 +1,5 @@
 # 2021 ILiADS project materials for Al-Iwan team
 
-# Table of Contents
-
 - Notes
   * [Google Doc](https://docs.google.com/document/d/1C536tjOD3YYShozO6ZbcWVcJ8_uTzeem5cp_muojCEc/edit?usp=sharing)
   * [`.pdf`]
