@@ -4,7 +4,7 @@
   * [Google Doc](https://docs.google.com/document/d/1C536tjOD3YYShozO6ZbcWVcJ8_uTzeem5cp_muojCEc/edit?usp=sharing)
   * [`.pdf`]
   * [`.txt`]
-  * [`.md`]
+  * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes.md)
 
 - Form template for archival collections information
   * Form
