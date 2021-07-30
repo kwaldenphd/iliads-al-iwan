@@ -862,10 +862,60 @@ Next steps:
       * [CollectionBuilder platform](https://collectionbuilder.github.io/) for static-site generation using digital collections (options for GitHub Pages, Stand Alone, and CONTENTdm with options for other systems/APIS; based at University of Idaho)
         * Olivia Wikle, Evan Williamson, and Devin Becker, “[What is Static Web and What’s it Doing in the Digital Humanities Classroom?](https://dhandlib.org/2020/06/22/what-is-static-web-and-whats-it-doing-in-the-digital-humanities-classroom/)” dh + lib (2020)
     * Git/GitHub
-      * Software Carpentry tutorial
-      * Library Carpentry tutorial
+      * [Software Carpentry tutorial](https://swcarpentry.github.io/git-novice/)
+      * [Library Carpentry tutorial](https://librarycarpentry.org/lc-git/)
+
+## Contribution Guidelines
+
+[Link to diagram](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/diagrams/Al-Iwan_Architecture_V2.jpg)
+
 
 # Friday 7/30
 
+## What did you accomplish this week?
+- Finally as a team we were able to meet for a full week and discuss our Idea/Project from different perspectives
+- Clarified our project Scope
+- Chunked our project into smaller pieces and processes
+- Created our Initial Data Model
+- Created our Initial Website Components
+- Created our Initial list of relevant digital archives and digital projects
 
-## Outline
+## What did you learn?
+- Explored a variety of possible approaches to implement our project
+- Discussed a variety of possible platforms to host our project
+- Examined: interesting tools/methodologies that we can use/build  in our Digital Project; PM, sustainability, ethics, digital tools, google tools and much more.
+ 
+## What are your next steps?
+- Project Charter
+- Identify our Training needs
+- Contact DH experts in certain fields of interest: Alex Gil, Jack Reed (IIIF)
+- Start the inception phase by creating different proof of concept that fulfill the different needs of the project;
+  * Data Curation
+  * Annotation
+  * Pedagogical tools
+  * Citation tools
+  * Static Vs Dynamic Online Presence
+  * Minimal computing
+  * Sustainability
+- Identify clearly our needs, constraints and risks ->Apply for funding depending on our needs
+- Revisit the project schedule and Milestones
+
+## Action Items and Next Steps
+
+- When is our next meeting?
+  * Indicate availability:
+    * Najla will be travelling in August and early September
+    * Elie will be contacting each small group around mid September
+
+- Small group formations and tasks:
+  * Send google form to AMICAL about the status of our project
+  * Najla and Elie work on the request
+
+- Experts to contact:
+  * Create a network of DH experts and faculty that could contribute or make use of the project
+  * GlobaloutlookDH: 
+  * Quinn Dombrowski https://dlcl.stanford.edu/people/quinn-dombrowski
+  * Marii Nyrop https://library.nyu.edu/people/marii-nyrop/
+  * Till can offer a short intro to GitHub
+
+- Discuss budget
