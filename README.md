@@ -28,12 +28,15 @@
   * [`.png`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Website_Architecture.png)
   * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Jamboards.pdf)
 
-- [Project Workflow (image)](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/Al-Iwan_Workflow.jpg)
-
+- Project Architecture and Workflow Diagrams
+  * [Architecture V1](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/diagrams/Al-Iwan_Architecture_V1.jpg)
+  * [Processes](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/diagrams/Al-Iwan_Architecture_V2.jpg)
+  * [Architecture V2](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/diagrams/Al-Iwan_Architecture_V3.jpg)
+  
 - Session Recordings
   * Monday 7/26
     * [Panopto](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8ec9e67-3c36-4e47-b959-ad7101467b1a)
     * [Google Drive](https://drive.google.com/file/d/1uDrKZqfhcW1hmyilrta0BgPXG6unV2-U/view?usp=sharing)
   * Thursday 7/29
     * [Panopto](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fb322e0-e37f-4193-8994-ad74012b4ae3)
-    * [Google Drive](
+    * [Google Drive](https://drive.google.com/file/d/1z5vbfZmOciGYphTISPFWljmhD5i79GA3/view?usp=sharing)
