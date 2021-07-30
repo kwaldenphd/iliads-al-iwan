@@ -33,7 +33,6 @@
   * Individual brainstorming + reflection
   * Collaborative discussion
 
-
 # Discussion of Project Goals and Aims
 
 ## Prompt
@@ -512,20 +511,20 @@ A use case or a user story is a brief narrative that describes how a user (or ty
 
 Till:
 - Teaching a course on Orientalism, I want students to find visual material online with no limit as to the platforms they are utilising. As soon as they find material, lets say digital facsimiles of postcards, we will need to establish some metadata for the original material artefact, be able to link to that specific digitised instance of the artefact, and comment on /remix this digitised artefact in a course specific context. Some students will focus on the captions and analyse a) the terminology used to describe the depicted scene, b) the accuracy of the caption (does the caption really relate to the image?). Others will look at the pictorial material and try to classify the displayed / depicted locations and objects probably even with machine vision. The aim is to get a sense of how a) the original physical artefact functioned in its specific cultural context and b) how the digitally remediated artefact carries on/ challenges these “original” functions.
-            * Challenges: 
-            * There is a physical artefact with multiple copies.
-            * There are multiple digitised copies of this artefact all with differing associated metadata.
-            * We might need to consider captions and images as two independent bodies of sources which have been freely remixed by the creators of the original material artefact (i.e. the postcards).
-            * We will need to be able to identify/disambiguate named entities. In the case of locations, we might want to put them (and the postcards relating to them) on a map.
-            * Role of al-Iwan
-            * Capture the metadata, including the URIs linking to items and captions
-            * Submit this metadata to an open platform that allows for transparent re-use and provides stable identifiers 
-            * Place to hold the students observations on these items
-            * Make it easy to link between various digital artefacts and digitisation of the same artefact.
-            * Provide a way to ingest this material into methods for distant reading
-            * In the case of grey material, I could imagine submitting URLs to the Internet Archive’s Wayback Machine etc. and building upon their APIs
-            * Provide an annotation layer that allows to “easily” link entities to Wikidata, VIAF etc.
-            * Submit textual material to annotation (machine-learning based entity recognition)
+- Challenges: 
+  * There is a physical artefact with multiple copies.
+  * There are multiple digitised copies of this artefact all with differing associated metadata.
+  * We might need to consider captions and images as two independent bodies of sources which have been freely remixed by the creators of the original material artefact (i.e. the postcards).
+  * We will need to be able to identify/disambiguate named entities. In the case of locations, we might want to put them (and the postcards relating to them) on a map.
+  * Role of al-Iwan
+    * Capture the metadata, including the URIs linking to items and captions
+    * Submit this metadata to an open platform that allows for transparent re-use and provides stable identifiers 
+    * Place to hold the students observations on these items
+    * Make it easy to link between various digital artefacts and digitisation of the same artefact.
+    * Provide a way to ingest this material into methods for distant reading
+    * In the case of grey material, I could imagine submitting URLs to the Internet Archive’s Wayback Machine etc. and building upon their APIs
+    * Provide an annotation layer that allows to “easily” link entities to Wikidata, VIAF etc.
+    * Submit textual material to annotation (machine-learning based entity recognition)
 
 Najla:
 - Users can become aware of this site through research guides 
@@ -633,99 +632,238 @@ Further conversation on minimal computing:
 
 ## Notes from Yesterday’s Questions
 
-
-            * Possibly having browsing/searching at the collection (or sub-collection) level, rather than item level
-            * Narrowing the scope of the archive or collections to aggregate
-            * Questions about the degree of interactivity/annotation that is built into the platform (versus collections being used in other tools/platforms)
-            * Focus on sustainability and robust metadata
-            * Where the added or supplemental metadata “lives”- does it go back into the main browsing/searching interface or is it a supplemental timeline/map/etc.
-            * Some level of infrastructure for collaborative annotation (Hypothesis group, crowdsourced map, etc)
-            * Link to Hypothesis group (thank you, Till!)
-            * Making methodologies and workflows legible for students (and other instructors)
-            * Documentation, also educational materials
-            * Sustainability (permalinks, resilient datasets, etc) that would allow digital project work to feed back into discovery interface
-            * Workflows for Archive.org (or Zenodo), etc
-            *             * What does it look like for users to be able to contribute or submit additional items/materials to the “collection”
-            * Sustainability or preservation of singular items or materials that exist on the web or in personal collections
-            * Who reviews submissions or oversees this workflow
-            * What it looks like to ingest or integrate these submissions into the central “discovery” interface/core repository- complementary but distinct workflow(s)
-            * Upload image to archive.org, add metadata, connect to central repository
-            * Zenodo
-            * Archive.org API documentation
-            * Links to digital humanities tools, accompanied by documentation/tutorials/examples of how to work with these collections via these tools
-            * Examples of crowdsourced pedagogy resources:
-            * Digital Library Federation #DLFteach Toolkit
-            * Digital Pedagogy in the Humanities
-            * A non-pedagogy resource hosted on Humanities Commons: Alt-Ac Support Network
-            * Publicity or promotion component- highlighting datasets, projects, assignments, etc.
-            * Preservation or sustainability of projects submitted or highlighted in the site
+- Possibly having browsing/searching at the collection (or sub-collection) level, rather than item level
+- Narrowing the scope of the archive or collections to aggregate
+- Questions about the degree of interactivity/annotation that is built into the platform (versus collections being used in other tools/platforms)
+- Focus on sustainability and robust metadata
+- Where the added or supplemental metadata “lives”- does it go back into the main browsing/searching interface or is it a supplemental timeline/map/etc.
+- Some level of infrastructure for collaborative annotation (Hypothesis group, crowdsourced map, etc)
+- Link to Hypothesis group (thank you, Till!)
+- Making methodologies and workflows legible for students (and other instructors)
+- Documentation, also educational materials
+- Sustainability (permalinks, resilient datasets, etc) that would allow digital project work to feed back into discovery interface
+- Workflows for Archive.org (or Zenodo), etc
+- What does it look like for users to be able to contribute or submit additional items/materials to the “collection”
+- Sustainability or preservation of singular items or materials that exist on the web or in personal collections
+- Who reviews submissions or oversees this workflow
+- What it looks like to ingest or integrate these submissions into the central “discovery” interface/core repository- complementary but distinct workflow(s)
+- Upload image to archive.org, add metadata, connect to central repository
+- Zenodo
+- Archive.org API documentation
+- Links to digital humanities tools, accompanied by documentation/tutorials/examples of how to work with these collections via these tools
+- Examples of crowdsourced pedagogy resources:
+- Digital Library Federation #DLFteach Toolkit
+- Digital Pedagogy in the Humanities
+- A non-pedagogy resource hosted on Humanities Commons: Alt-Ac Support Network
+- Publicity or promotion component- highlighting datasets, projects, assignments, etc.
+- Preservation or sustainability of projects submitted or highlighted in the site
 
 
 ## Sustainability Workshop Follow-Up, Conversations, and Next Steps
-            * Link to Google Drive folder with resources
+- Resources
+  * [Link to Google Drive folder with resources](https://drive.google.com/drive/folders/1olMEc6O3suNJsWDwSfQ0GHZDYADjt6pU?usp=sharing)
+  * [GitHub folder with materials](https://github.com/kwaldenphd/iliads-al-iwan/tree/main/sustainability-workshop)
 
-
-            * Notes:
-            * Thinking about access points in more concrete ways
-            * Thinking about different components of the project having different levels of needed ongoing support
-            * Useful ways to think about the project for future funding application materials
+- Notes:
+  * Thinking about access points in more concrete ways
+  * Thinking about different components of the project having different levels of needed ongoing support
+  * Useful ways to think about the project for future funding application materials
 
 
 ## Wireframing
 
 ### Data model for discovery interface
-            * Jamboard link
-            * Question about mapping data from archival finding aids to data model
-            * Other data components that would be part of model but not public user interface (permalinks, object identifiers, etc)
-            * Spreadsheet template with controlled vocabulary/defined options as a starting point
-            * Thinking about the final format for the discovery interface data (JSON, XML, etc)
-            * Platform- static sites (HTML, Jekyll, JavaScript) versus CMS (Omeka)
-
-
-  
-
-
-
-
+- Image
+  * [Jamboard link](https://jamboard.google.com/d/1SfqpsdugMynnOyjzt8UoRPbruhDmJ3SiOOfcm7Slipc/edit?usp=sharing)
+  * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/data-model.md)
+  * [`.png`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Data_Model.png)
+  * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Jamboards.pdf)
+- Question about mapping data from archival finding aids to data model
+- Other data components that would be part of model but not public user interface (permalinks, object identifiers, etc)
+- Spreadsheet template with controlled vocabulary/defined options as a starting point
+- Thinking about the final format for the discovery interface data (JSON, XML, etc)
+- Platform- static sites (HTML, Jekyll, JavaScript) versus CMS (Omeka)
 
 ### Website components:
-            * Contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
-            * Platform- static site (HTML, Jekyll, etc) versus CMS (WordPress)
-
-
-  
+- Image
+  * [Jamboard link](https://jamboard.google.com/d/1SfqpsdugMynnOyjzt8UoRPbruhDmJ3SiOOfcm7Slipc/edit?usp=sharing)
+  * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/website-architecture.md)
+  * [`.png`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Website_Architecture.png)
+  * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Jamboards.pdf)
+- Contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
+- Platform- static site (HTML, Jekyll, etc) versus CMS (WordPress)
 
 ## Next Steps for Thursday 7/29
-            * Starting to work on documentation/technical workflows
-            * Continue thinking about data model and website architecture
-            * Continue thinking about platforms- static sites versus CMS (WordPress, Omeka)
-            * Some examples to consider:
-            * Colored Conventions Project (combination of WordPress and Omeka)
-            * Looks like there are some Omeka plugins built for annotation- I am not familiar with these, but might be worth thinking about the value/utility of these plugins to facilitate interactivity/annotation
-            * IIIF Toolkit (Omeka Classic)
-            * Annotate Module (Omeka S, uses W3C Web Annotation Ontology)
-            * Wax (minimal computing, static sites platform for digital collections)
-            * Demo site built using Wax
-            * Thinking more about contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
-            * Back to the regular team time Thursday (12-3pm CST)
-            * I’m working on coordinating a conversation with a couple of other project teams that are working with non-English and multilingual metadata- stay tuned!
-
+- Starting to work on documentation/technical workflows
+- Continue thinking about data model and website architecture
+- Continue thinking about platforms- static sites versus CMS (WordPress, Omeka)
+- Some examples to consider:
+  * [Colored Conventions Project](https://coloredconventions.org/) (combination of [WordPress](https://coloredconventions.org/) and [Omeka](https://omeka.coloredconventions.org/))
+    * Looks like there are some Omeka plugins built for annotation- I am not familiar with these, but might be worth thinking about the value/utility of these plugins to facilitate interactivity/annotation
+    * [IIIF Toolkit](https://omeka.org/classic/plugins/IiifItems/) (Omeka Classic)
+    * [Annotate Module](https://github.com/Daniel-KM/Omeka-S-module-Annotate) (Omeka S, uses W3C Web Annotation Ontology)
+  * [Wax](https://github.com/minicomp/wax/) (minimal computing, static sites platform for digital collections)
+    * [Demo site built using Wax](https://minicomp.github.io/wax/)
+ - Thinking more about contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
+ - Back to the regular team time Thursday (12-3pm CST)
+   * I’m working on coordinating a conversation with a couple of other project teams that are working with non-English and multilingual metadata- stay tuned!
 
 ## Modeling and Metadata Workshop
+- Presentation slides
+  * [Google Slides link](https://docs.google.com/presentation/d/1AOhP5hGHMt5Dut4Isix-J3Nm5s1Nay24vgymPPZpq4k/edit?usp=sharing)
+  * [PDF](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/metadata-workshop/ILiADS%202021%20-%20Data%20Modeling%20%2B%20Metadata.pdf) 
+- [Recording](https://drive.google.com/file/d/1F1qq17J-WjDgAWpUTXoyKqIBtFhEXskP/view?usp=sharing)
 
 # Thursday 7/29
 
 ## Outline:
-            * Continue thinking about data model and website architecture
-            * Continue thinking about platforms- static sites versus CMS (WordPress, Omeka)
-            * Community conversation about working with non-English or multilingual metadata
-            * Zoom link
-            * Starting to work on documentation/technical workflows
-            * Thinking more about contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
+- Continue thinking about data model and website architecture
+- Continue thinking about platforms- static sites versus CMS (WordPress, Omeka)
+- Community conversation about working with non-English or multilingual metadata
+- Starting to work on documentation/technical workflows
+- Thinking more about contribution guidelines- are these on the public website, or posted elsewhere; how is this information communicated (and to whom)
 
+## NEH Presentation Follow-Up
 
+Questions to consider:
+- What grant funding would be needed for or to do
+- Possibilities for collaboration across consortial partners
+- Timeline for preparation (and funding)
+- What grant program would be a good fit
+- Timeline for developing discrete list of goals/needs to talk with program officer
 
+[Link to NEH resources](https://www.neh.gov/divisions/odh/resources-for-applicants-to-the-NEH-office-of-digital-humanities)
 
+[Global Outlook::Digital Humanities group](http://www.globaloutlookdh.org/)
+- globaloutlookdh-l@uleth.ca
+
+## Platforms: Static Site Versus CMS
+
+Till favoring static sites or static formats that get converted into HTML
+- Being able to submit content in plain-text forms
+- Who would be doing these submissions or commits
+- Minimizing space requirements, also traffic requirements
+- Static sites preferable for sustainability
+- Doesn’t have to look like 1990s web content! 
+- GitHub actions- running pre-defined scripts on the data, docker workspace (for free from GitHub?)
+  * [gh actions](https://cli.github.com/manual/gh_actions)
+  * [GitHub Actions documentation](https://docs.github.com/en/actions)
+  * Reclaim Hosting / [Reclaim Cloud](https://reclaim.cloud/applications/) as another option for docker access
+
+Elie- possibly need for two different types of platforms
+- One that facilitates discovery interface (static sites, metadata based)
+- A different platform or resource type for project website (blog posts, student work, etc)
+
+## Metadata Community Conversation
+
+MSU team- dealing with Russian language and multilingual metadata 
+AUB team- calendar, language variance; encoding challenges
+Question: Calendars that are not Gregorian, how to standardize or how to deal with variety?
+Sidestepping the calendar issue by focusing on user community being predominantly English-speaking
+Methods for dealing with script variance and language contextual usage
+Where Unicode might be headed, or what options/workflows might be able to help address unicode gaps
+Question: Dealing with different Unicode tables for characters/glyphs, not normalized on the OS level?
+Question: How to represent multilingual metadata? Multiple languages, translation, etc? Think about this in relation to audience/user communities?
+Also platform/interface language?
+What does this mean for standardizing metadata for user submissions?
+Script differentiation in terms of R-L, L-R reading
+Interoperability and what that means back-end technical workflows versus front-end presentation
+What needs translation and what must be interoperable (and by or for whom)
+Value of bibliographic resources for highlighting cultural material/cultural heritage that exists in personal collections 
+Making bibliographies part of the project for materials/collections that might not (ever) be ingested into central project repository data model
+Bibliographic work as a form of crowdsourcing
+Mirror site targeted for potential donors/diaspora communities/cultural institutions
+Crowdsourcing for the mirror site rather than the central project repository (different purpose/audience)
+Intercultural and intergenerational dimensions of crowdsourcing cultural heritage
+Which connects back to metadata, description, representation, presentation
+Digitized representations of material artifacts
+
+## Documentation and Technical Workflows
+
+[Link to image](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/diagrams/Al-Iwan_Architecture_V1.jpg)
+
+Notes:
+- Lower one/lower items do connect
+  * Where annotation, curation, and submission fit in
+- Different classes of object
+  * Digital object
+  * Metadata (helps with discovery, links to and describes item/object)
+  * Annotation (attached to item, also attached to metadata to be part of discovery)
+- Ways of connecting annotation and metadata to minimize duplication
+  * But also what this means for discovery/searching/browsing
+  * Provider versus user perspective
+- Being able to compartmentalize and isolate aspects of the projects and workflow
+  * Ease of use for different user communities- barriers to entry or workflows
+  * What it means to be able to ingest content/material/submissions into a central space or workflow
+  * How to incorporate or ingest student work/classroom work into the central project space
+    * Metadata template
+
+Next steps:
+- Curation and data model
+- Elie- data model/technical workflows, gathering information to build and populate data model
+  * Metadata structure
+  * Filling out excel sheet- using existing templates
+  * Digital collections workflow
+  * Starting with Dublin Core fields (and building out from there)
+- Happening in parallel- figuring out platform where data model will “go” or next step for discovery interface
+- Thinking more concretely about annotation possibilities and workflows
+- Till- annotation components
+  * Funny thing is: I have no idea :-)
+  * How to embed/point to [hypothes.is](https://web.hypothes.is/) for annotating websites
+  * Submit material for semantic annotation with [recogito](https://recogito.pelagios.org/)
+- Najla- playground/pedagogical space
+  * Expanding out website architecture
+  * Starting to build project website (for educational resources, events, etc)
+  * Developing educational resources (identifying existing content)
+    * [Katie’s tutorials are all fair game](https://github.com/kwaldenphd)
+    * [Programming Historian](https://programminghistorian.org/)
+    * [DLFTeach Toolkit](https://dlfteach.pubpub.org/toolkit)
+    * [Library Carpentry](https://librarycarpentry.org/)
+- Where to host all of this- server space?
+  * Reclaim hosting
+    * US-based: is this an issue?
+  * Hypotheses.org for blogging (Wordpress): 
+    * Free: hosted by European research institutions
+    * increasing visibility of the content through the platform
+    * Maintenance of the infrastructure taken care of.
+  * GitHub’s gh-pages: simple and free-to-use hosting solution for static content
+    * Built-in Jekyll support
+    * Static content can be generated upon changes to the data in repositories through Github Actions
+    * No guarantee on long-term availability
+    * Limited size of free repositories not suited to host visual/ audio content
+  * The Internet Archive
+    * Can act as a digital archive for user-digitised content
+    * Supports IIIF (“experimental” but reliable)
+  * Public repositories for long-term preservation of data sets
+    * Zenodo
+      * EU-funded at CERN
+      * Provides DOIs
+      * Can hook into GitHub
+- Project plan, timeline, etc.- updating existing language
+- Developing budget (1, 3, 5 year intervals)
+  * Hosting
+  * Digitization
+  * Course release(s)
+  * Events
+  * Labor
+  * Technical consultation/training (who in the team needs what)
+    * IIIF
+      * IIIIF training resources
+      * IIIF workshop materials from Jeffrey C. Witt
+      * IIIF workshop materials developed by Jason Ronallo
+    * Annotation
+      * AudiAnnotate project (IIIF and audio annotation)
+      * IIIF annotation that integrates with Wax (or Jekyll sites)
+    * Minimal computing
+      * Jekyll theme for IIIF-C sites
+      * Wax (minimal computing, static sites platform for digital collections)
+        * Demo site built using Wax
+      * Ed (Jekyll theme for minimal computing textual edited content)
+      * CollectionBuilder platform for static-site generation using digital collections (options for GitHub Pages, Stand Alone, and CONTENTdm with options for other systems/APIS; based at University of Idaho)
+        * Olivia Wikle, Evan Williamson, and Devin Becker, “What is Static Web and What’s it Doing in the Digital Humanities Classroom?” dh + lib (2020)
+    * Git/GitHub
+      * Software Carpentry tutorial
+      * Library Carpentry tutorial
 
 # Friday 7/30
 
