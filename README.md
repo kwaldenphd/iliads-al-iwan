@@ -1,5 +1,14 @@
 # 2021 ILiADS project materials for Al-Iwan team
 
+# Table of Contents
+- [Notes](#notes)
+- [Form template for archival collections information](form-template-for-archival-collections-information)
+- [Data Model](#data-model)
+- [Website Architecture](#website-architecture)
+- [Project Architecture and Workflow Diagrams](#project-architecture-and-workflow-diagrams)
+- [Session Recordings](#session-recordings)
+- [ILiADS Workshops](#iliads-workshops)
+
 ## Notes
 - [Google Doc](https://docs.google.com/document/d/1C536tjOD3YYShozO6ZbcWVcJ8_uTzeem5cp_muojCEc/edit?usp=sharing)
 - [`.docx`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes/ILiADS_Al-Iwan.docx)
