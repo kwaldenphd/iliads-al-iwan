@@ -55,6 +55,10 @@
 - [Chat Logs](https://github.com/kwaldenphd/iliads-al-iwan/tree/main/chat-logs)
 
 ## ILiADS Workshops
+- Welcome packet
+  * [Google Doc link](https://docs.google.com/document/d/1QMUsXtpXP_bp6OUyQp-87VzHG6AE9nzDe93MZ8XRz8Q/edit?usp=sharing)
+  * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/welcome-packet/ILiADS%202021%20Welcome%20Packet.pdf)
+  * [`.docx`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/welcome-packet/ILiADS%202021%20Welcome%20Packet.docx)
 - Welcome, Team Lightning Talks, Announcements
   * [Link to Google Slides](https://docs.google.com/presentation/d/1aCPL_Qn7XxC3aXsAIc5Gm-kBky72DnzKcFogWreSkuk/edit?usp=sharing)
   * [Link to slide deck as PDF](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/opening-session/ILiADS%202021%20Lightning%20Presentations.pdf)
