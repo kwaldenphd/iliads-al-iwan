@@ -402,46 +402,52 @@ Incoming Letters to Smith who was a resident in Syria 1883-1891
     * Ph:1/731s
   * [On mount: Egypt [Two seated] Abyssinian women](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/https:/almashriq.hiof.no/ddc/projects/jafet/blatchford/html/731s.html) [Elaborate ornaments on clothes, legs and feet]
   * Dr. Franklin Moore Photo Collection
-    * Mary Bliss Dale? with faculty? and baby crib. Worker plowing ground. 75
-    * Ras Beirut: cactus lane. 1898. 01
-    * Eye clinic. Patients brought sometimes food (zawwadeh) in baskets as fees. November 1897. 62
-    * Dr. George E. Post operating. 61
-    * Abdel Aziz and Bliss streets, Corner of. Hospital wall on right. 07
-  * Cornelius Van Dyck Photo Collection
+    * [Mary Bliss Dale? with faculty? and baby crib. Worker plowing ground. 75](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/mp_/https:/almashriq.hiof.no/ddc/projects/jafet/moore/75.html)
+    * [Ras Beirut: cactus lane. 1898. 01](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/mp_/https:/almashriq.hiof.no/ddc/projects/jafet/moore/01.html)
+    * [Eye clinic. Patients brought sometimes food (zawwadeh) in baskets as fees. November 1897. 62](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/mp_/https:/almashriq.hiof.no/ddc/projects/jafet/moore/62.html)
+    * [Dr. George E. Post operating. 61](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/mp_/https:/almashriq.hiof.no/ddc/projects/jafet/moore/61.html)
+    * [Abdel Aziz and Bliss streets, Corner of. Hospital wall on right. 07](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/mp_/https:/almashriq.hiof.no/ddc/projects/jafet/moore/07.html)
+  * [Cornelius Van Dyck Photo Collection](https://libcat.aub.edu.lb/record=b1367941~S1)
   * Isa Iskandar Ma’luf Postcards Collection:
-  * The Holy Land : Jerusalem by Raphael Tuck & Sons, England [1903]
-    * Jounie
-    * Jounieh : Gare de Sarba by E. Cailteux Lille, France [1923]
-    * Menageres Arabes-Liban by Jean Tourosian
-    * Haifa (Palestine) : Couvent du Mt. Carmel by R. Zedda, Napoli
-    * Jerusalem : Garden of Gethsemane by Weltpost-Verein, Germany  
+  * [The Holy Land : Jerusalem by Raphael Tuck & Sons, England [1903]](https://libraries.aub.edu.lb/xtf/view?docId=postcards/ark86073b3m594/ark86073b3m594.xml;query=Publisher;brand=postcards;si=1)
+    * [Jounie](https://libraries.aub.edu.lb/xtf/view?docId=postcards/ark86073b32595/ark86073b32595.xml&brand=postcards&externalv=1)
+    * [Jounieh : Gare de Sarba by E. Cailteux Lille, France [1923]](https://libraries.aub.edu.lb/xtf/view?docId=postcards/ark86073b39p4m/ark86073b39p4m.xml&brand=postcards&externalv=1)
+    * [Menageres Arabes-Liban by Jean Tourosian](https://libraries.aub.edu.lb/xtf/view?docId=postcards/ark86073b3nc7r/ark86073b3nc7r.xml;query=-%09Menageres%20Arabes-Liban;brand=postcards;si=1)
+    * [Haifa (Palestine) : Couvent du Mt. Carmel by R. Zedda, Napoli](https://libraries.aub.edu.lb/xtf/view?docId=postcards/ark86073b3m88s/ark86073b3m88s.xml&brand=postcards&externalv=1)
+    * [Jerusalem : Garden of Gethsemane by Weltpost-Verein, Germany  ](https://libraries.aub.edu.lb/xtf/view?docId=postcards/ark86073b3rw2z/ark86073b3rw2z.xml;query=Weltpost-Verein;brand=postcards;si=1)
 - Travel Books
-  * A handbook for travelers in Syria and Palestine part In by John Murray , 1868
-  * A handbook for travelers in Syria and Palestine Part II,  by John Murray
-  * Palestine and Syria : handbook for travellers, 1894
-  * Palestine and Syria : handbook for travelers, 1898
-  * Palestine and Syria with routes through Mesopotamia and Babylion and the Island of Cyprus, 1912
-  * Le Tourisme en Syrie et au Liban, 1920
-  * دليل الشوير ونواحيها : جمال، جلال، مناخ، جذل، طمأنينة، أنس، إرتياح ، 1923
+  * [A handbook for travelers in Syria and Palestine part In by John Murray , 1868](https://libraries.aub.edu.lb/xtf/view?docId=ulbooks/ark86073b3cc78/ark86073b3cc78.xml;query=;brand=travelbooks;si=9#page/1/mode/2up)
+  * [A handbook for travelers in Syria and Palestine Part II,  by John Murray](https://libraries.aub.edu.lb/xtf/view?docId=ulbooks/ark86073b37p40/ark86073b37p40.xml;query=;brand=travelbooks;si=7)
+  * [Palestine and Syria : handbook for travellers, 1894](https://libraries.aub.edu.lb/xtf/view?docId=ulbooks/ark86073b3159v/ark86073b3159v.xml;query=;brand=travelbooks;si=2#page/1/mode/2up)
+  * [Palestine and Syria : handbook for travelers, 1898](https://libraries.aub.edu.lb/xtf/view?docId=ulbooks/ark86073b3wc7x/ark86073b3wc7x.xml;query=;brand=travelbooks;si=18#page/1/mode/2up)
+  * [Palestine and Syria with routes through Mesopotamia and Babylion and the Island of Cyprus, 1912](https://libraries.aub.edu.lb/xtf/view?docId=ulbooks/ark86073b3rp4n/ark86073b3rp4n.xml;query=;brand=travelbooks;si=16)
+  * [Le Tourisme en Syrie et au Liban, 1920](https://libraries.aub.edu.lb/xtf/view?docId=ulbooks/ark86073b3301q/ark86073b3301q.xml;query=;brand=travelbooks;si=3)
+      * دليل الشوير ونواحيها : جمال، جلال، مناخ، جذل، طمأنينة، أنس، إرتياح ، 1923
+        * [Link to access](https://libraries.aub.edu.lb/xtf/view?docId=ulbooks/ark86073b34s3q/ark86073b34s3q.xml;query=;brand=travelbooks;si=5) 
 - Manuscripts by Orientalists
   * Cornelius Van Dyck (8 items only one digitized)
-    * في اللوغارذمات والانساب / MS 512.7:V24fA:c.1  
-    * كتاب في علم الجبر   MS 512:V24kA:c.1  
+    * في اللوغارذمات والانساب / MS 512.7:V24fA:c.1 
+      * [Link to access](https://libcat.aub.edu.lb/search~S1?/cMS+512.7%3AV24fA%3Ac.1/c512.7%3Av24fa%3Ac.1/-3,-1,,E/browse) 
+    * كتاب في علم الجبر   MS 512:V24kA:c.1 
+      * [Link to access](https://libcat.aub.edu.lb/search~S1?/cMS+512%3AV24kA%3Ac.1/c512%3Av24ka%3Ac.1/-3,-1,,E/browse) 
   * George Edward Post (digitized)
     * قاموس النبات والحيوان  MS:581.03:P85qA
+      * [Link to access](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/20200603001203/https:/almashriq.hiof.no/ddc/projects/jafet/manuscripts/ms581.03P85qA/html-640/001-iii.html)
+     
 - Books
- * Impressions of Syria, Lebanon, Alaouite State, and Djebel Druze. CA 915.69:C777i  [1932]
- * Relation d'un sejour de plusieurs années a Beyrout et dans le Liban. CA 915.692:G991r:v.1-2:c.1 1847
+ * Impressions of Syria, Lebanon, Alaouite State, and Djebel Druze. [CA 915.69:C777i 1932](https://libcat.aub.edu.lb/record=b2120718~S1)
+ * Relation d'un sejour de plusieurs années a Beyrout et dans le Liban. [CA 915.692:G991r:v.1-2:c.1 1847](https://libcat.aub.edu.lb/record=b1186390~S1)
  * بيروت ولبنان منذ قرن ونصف قرن  1949-1950-CA 915.692:G991rA:v.1 (ACO)
- * Beyrout et le Liban 1850 CA 915.692:G991ra
- * Syria and Lebanon: holidays off the beaten track. 1936. CA 915.69:S995sE
- * Oriental encounters: Palestine & Syria, 1894-1896. CA 915.69:P59o:c.1
- * Pictorial journey through the Holy Land, 1863. CA 915.69:P61p
- * Voyage en Syrie et en Egypte pendant les années 1783, 84 et 85. 1787. CA 915.69:V928v:v.1:c.1  
- * Old and new places in Palestine, Syria and Lebanon 1946, CA 915.69:M35o:c.1Fifty-three years in Syria CA 922.573:J581f:v.1-v 2
+ * Beyrout et le Liban 1850 [CA 915.692:G991ra](http://hdl.handle.net/2333.1/ns1rnfc0)
+ * Syria and Lebanon: holidays off the beaten track. 1936. [CA 915.69:S995sE](https://libcat.aub.edu.lb/record=b1186391~S1)
+ * Oriental encounters: Palestine & Syria, 1894-1896. [CA 915.69:P59o:c.1](https://libcat.aub.edu.lb/record=b1217483~S1)
+ * Pictorial journey through the Holy Land, 1863. [CA 915.69:P61p](https://libcat.aub.edu.lb/record=b1069617~S1)
+ * Voyage en Syrie et en Egypte pendant les années 1783, 84 et 85. 1787. [CA 915.69:V928v:v.1:c.1  ](https://libcat.aub.edu.lb/record=b1186381~S1)
+ * Old and new places in Palestine, Syria and Lebanon 1946, CA 915.69:M35o:c.1Fifty-three years in Syria [CA 922.573:J581f:v.1-v 2](https://libcat.aub.edu.lb/record=b1217452~S1)
+ * Fifty-three years in Syria [CA 922.573:J581f:v.1-v 2](https://libcat.aub.edu.lb/record=b1198833~S1)
  * That they may have life CA:AUB 378.5692:P417t:1941
- * Les orientalistes au Liban 1989 CA:F 760.09:O692o
- * Description de l'Egypte   CA 916.2:M22dF:c.1
+ * Les orientalistes au Liban 1989 [CA:F 760.09:O692o](https://libcat.aub.edu.lb/record=b1187156~S1)
+ * Description de l'Egypte [CA 916.2:M22dF:c.1](https://libcat.aub.edu.lb/record=b1186793~S1)
 
  Resources posted by Najla:
  - Corpus of Orientalist texts (linked to entries on Najla’s Drive)
