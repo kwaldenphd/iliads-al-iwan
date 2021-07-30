@@ -1,4 +1,46 @@
 # Table of Contents
+- [Project Description](#project-description)
+- [ILiADS Week Goals](#iliads-week-goals)
+- [Monday 7/26](#monday-726)
+  * [Monday Outline](#monday-outline) 
+  * [Discussion of Project Goals and Aims](#discussion-of-project-goals-and-aims)
+    * [Individual Notes](#space-for-individual-notes)
+    * [Observations and Next Steps](#project-goals-and-aims-initial-observations--next-steps)
+  * [Discussion of Infrastructure](#discussion-of-infrastructure)
+    * [Individual Notes](#individual-notes)
+    * [Observations and Next Steps](#infrastructure-initial-observations--next-steps)
+  * [Existing Technologies, Frameworks, and Projects](#existing-technologies-frameworks-and-projects)
+    *  [Projects to explore further](#existing-technologies-frameworks-projects-initial-observations--next-steps)
+  * [Next Steps and Action Items for Tuesday 7/27](#next-steps--action-items-for-tuesday-727)
+- [Inventory of Existing Archival Collections and Resources](#inventory-of-existing-archival-collectionsresources)
+- [Tuesday 7/27](#tuesday-727)
+  * [Outline](#tuesday-outline)
+  * [Exploring and Documenting Existing Archival Projects](#exploring-and-documenting-existing-archival-projects)
+    *  [Next Steps](#next-steps)
+  * [Use Cases, User Stories, and Desired Functionality](#use-cases-user-stories-and-desired-functionality)
+    * [Notes](#notes)
+  * [Questions to Consider for Wednesday 7/28](#questions-to-consider-for-wednesday-728)
+- [Wednesday 7/28](#wednesday-728)
+  * [Outline](#wednesdasy-outline)
+  * [Notes from yesterday's questions](#notes-from-yesterdays-questions)
+  * [Sustainability Workshop Follow-Up, Conversations, and Next Steps](#sustainability-workshop-follow-up-conversations-and-next-steps)
+  * [Wireframing](#wireframing)
+    * [Data model for discovery interface](#data-model-for-discovery-interface)
+    * [Website components](#website-components)
+  * [Next steps for Thursday 7/29](#next-steps-for-thursday-729)
+  * [Data Modeling and Metadata Workshop](#modeling-and-metadata-workshop)
+- [Thursday 7/29](#thursday-729)
+  * [Outline](#thursday-outline)
+  * [National Endowment for the Humanities Presentation Follow-Up](#neh-presentation-follow-up)
+  * [Platforms: Static Site Versus CMS](#platforms-static-site-versus-cms)
+  * [Metadata Community Conversation](#metadata-community-conversation)
+  * [Documentation and Technical Workflows](#documentation-and-technical-workflows)
+  * [Contribution Guidelines](#contribution-guidelines)
+- [Friday 7/30](#friday-730)
+  * [What did you accomplish this week?](#what-did-you-accomplish-this-week)
+  * [What did you learn?](#what-did-you-learn)
+  * [What are your next steps?](#what-are-your-next-steps)
+  * [Action Items and Next Steps](#action-items-and-next-steps)   
 
 # Project Description
 - al-Iwan is a Levant architectural space created for visitors to find shelter and exchange conversations.
@@ -16,7 +58,7 @@
 
 # Monday 7/26
 
-## Outline
+## Monday Outline
 - Questions or other follow-up from previous sessions
 - Discussion of project goals and aims
   * Individual brainstorming + reflection
@@ -434,26 +476,26 @@ Incoming Letters to Smith who was a resident in Syria 1883-1891
       * [Link to access](https://lib-webarchive.aub.edu.lb/BorreLudvigsen/20200603001203/https:/almashriq.hiof.no/ddc/projects/jafet/manuscripts/ms581.03P85qA/html-640/001-iii.html)
      
 - Books
- * Impressions of Syria, Lebanon, Alaouite State, and Djebel Druze. [CA 915.69:C777i 1932](https://libcat.aub.edu.lb/record=b2120718~S1)
- * Relation d'un sejour de plusieurs années a Beyrout et dans le Liban. [CA 915.692:G991r:v.1-2:c.1 1847](https://libcat.aub.edu.lb/record=b1186390~S1)
- * بيروت ولبنان منذ قرن ونصف قرن  1949-1950-CA 915.692:G991rA:v.1 (ACO)
- * Beyrout et le Liban 1850 [CA 915.692:G991ra](http://hdl.handle.net/2333.1/ns1rnfc0)
- * Syria and Lebanon: holidays off the beaten track. 1936. [CA 915.69:S995sE](https://libcat.aub.edu.lb/record=b1186391~S1)
- * Oriental encounters: Palestine & Syria, 1894-1896. [CA 915.69:P59o:c.1](https://libcat.aub.edu.lb/record=b1217483~S1)
- * Pictorial journey through the Holy Land, 1863. [CA 915.69:P61p](https://libcat.aub.edu.lb/record=b1069617~S1)
- * Voyage en Syrie et en Egypte pendant les années 1783, 84 et 85. 1787. [CA 915.69:V928v:v.1:c.1  ](https://libcat.aub.edu.lb/record=b1186381~S1)
- * Old and new places in Palestine, Syria and Lebanon 1946, CA 915.69:M35o:c.1Fifty-three years in Syria [CA 922.573:J581f:v.1-v 2](https://libcat.aub.edu.lb/record=b1217452~S1)
- * Fifty-three years in Syria [CA 922.573:J581f:v.1-v 2](https://libcat.aub.edu.lb/record=b1198833~S1)
- * That they may have life CA:AUB 378.5692:P417t:1941
- * Les orientalistes au Liban 1989 [CA:F 760.09:O692o](https://libcat.aub.edu.lb/record=b1187156~S1)
- * Description de l'Egypte [CA 916.2:M22dF:c.1](https://libcat.aub.edu.lb/record=b1186793~S1)
+  * Impressions of Syria, Lebanon, Alaouite State, and Djebel Druze. [CA 915.69:C777i 1932](https://libcat.aub.edu.lb/record=b2120718~S1)
+  * Relation d'un sejour de plusieurs années a Beyrout et dans le Liban. [CA 915.692:G991r:v.1-2:c.1 1847](https://libcat.aub.edu.lb/record=b1186390~S1)
+  * بيروت ولبنان منذ قرن ونصف قرن  1949-1950-CA 915.692:G991rA:v.1 (ACO)
+  * Beyrout et le Liban 1850 [CA 915.692:G991ra](http://hdl.handle.net/2333.1/ns1rnfc0)
+  * Syria and Lebanon: holidays off the beaten track. 1936. [CA 915.69:S995sE](https://libcat.aub.edu.lb/record=b1186391~S1)
+  * Oriental encounters: Palestine & Syria, 1894-1896. [CA 915.69:P59o:c.1](https://libcat.aub.edu.lb/record=b1217483~S1)
+  * Pictorial journey through the Holy Land, 1863. [CA 915.69:P61p](https://libcat.aub.edu.lb/record=b1069617~S1)
+  * Voyage en Syrie et en Egypte pendant les années 1783, 84 et 85. 1787. [CA 915.69:V928v:v.1:c.1  ](https://libcat.aub.edu.lb/record=b1186381~S1)
+  * Old and new places in Palestine, Syria and Lebanon 1946, CA 915.69:M35o:c.1Fifty-three years in Syria [CA 922.573:J581f:v.1-v 2](https://libcat.aub.edu.lb/record=b1217452~S1)
+  * Fifty-three years in Syria [CA 922.573:J581f:v.1-v 2](https://libcat.aub.edu.lb/record=b1198833~S1)
+  * That they may have life CA:AUB 378.5692:P417t:1941
+  * Les orientalistes au Liban 1989 [CA:F 760.09:O692o](https://libcat.aub.edu.lb/record=b1187156~S1)
+  * Description de l'Egypte [CA 916.2:M22dF:c.1](https://libcat.aub.edu.lb/record=b1186793~S1)
 
  Resources posted by Najla:
  - Corpus of Orientalist texts (linked to entries on Najla’s Drive)
 
 # Tuesday 7/27
 
-## Outline
+## Tuesday Outline
 - Questions or other follow-up from previous sessions
 - Exploring and documenting existing archival projects 
 - Technical conversation about metadata, languages, platforms, etc
@@ -466,9 +508,16 @@ Incoming Letters to Smith who was a resident in Syria 1883-1891
 ## Prompt
 
 Many thanks to those who have contributed toward a list of existing archival collections and projects. I’ve created a draft Google Form for collecting information about these collections and projects:
-- Link to Google Form for existing archival projects
-- Link to access Google Form results
-- Link to edit or modify Google Form
+- Form template for archival collections information
+  * Form
+    * [Google Form link](https://docs.google.com/forms/d/e/1FAIpQLSfatQEaoWoi3EcRX2LUS78COgQuAXugAYnnqBnbWNc1Ls4cRQ/viewform?usp=sf_link)
+    * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Form_Template.pdf)
+    * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/form.md)
+  * [Google Drive link to edit form](https://docs.google.com/forms/d/1gqAwq6bGtUB24MJScYp7431pHlys4MVzXseyubdsHdY/edit?usp=sharing)
+  * Form Responses
+    * [Google Sheet link](https://docs.google.com/spreadsheets/d/1iy78AEmq1iucsOKY2j824bPCeNVkkk41v5eTAb10o_c/edit?usp=sharing)
+    * [`.csv`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Form_Responses.csv)
+
 
 A few questions about how we proceed:
 - What parts of the form need to be modified, or what other questions need to be on the form?
@@ -547,7 +596,7 @@ Nabila:
 Samar:
 - Researchers / Faculty and Students can use Iwan in their research on Orientalism which should primarily be based on the existing AUB collection in addition to other collections from other local institutions like OIB. These researchers should be able to reflect on the material as well as add more collections if possible. This editing and ability to change should be controlled by the team as to control the quality of the material included by other members. 
 
-# Questions to considerfor Wednesday 7/28
+# Questions to consider for Wednesday 7/28
 
 From Monday:
 - Curation- bringing together and facilitating access to existing archival collections; not just a project highlighting digitized collections- building on and connecting existing work (in way that facilitate new forms of access) 
@@ -622,7 +671,7 @@ Further conversation on minimal computing:
 
 # Wednesday 7/28
 
-## Outline
+## Wednesday Outline
 - Questions or other follow-up from previous sessions
 - Reflecting on questions from yesterday
 - Project sustainability workshop
@@ -716,7 +765,7 @@ Further conversation on minimal computing:
 
 # Thursday 7/29
 
-## Outline:
+## Thursday Outline
 - Continue thinking about data model and website architecture
 - Continue thinking about platforms- static sites versus CMS (WordPress, Omeka)
 - Community conversation about working with non-English or multilingual metadata
