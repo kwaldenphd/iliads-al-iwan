@@ -15,6 +15,8 @@
 - [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes/ILiADS_Al-Iwan.pdf)
 - [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes/notes.md)
 
+- [Chat logs](https://github.com/kwaldenphd/iliads-al-iwan/tree/main/chat-logs)
+
 ## Form template for archival collections information
 - Form
   * [Google Form link](https://docs.google.com/forms/d/e/1FAIpQLSfatQEaoWoi3EcRX2LUS78COgQuAXugAYnnqBnbWNc1Ls4cRQ/viewform?usp=sf_link)
@@ -49,6 +51,8 @@
 - Thursday 7/29
   * [Panopto](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fb322e0-e37f-4193-8994-ad74012b4ae3)
   * [Google Drive](https://drive.google.com/file/d/1z5vbfZmOciGYphTISPFWljmhD5i79GA3/view?usp=sharing)
+
+- [Chat Logs](https://github.com/kwaldenphd/iliads-al-iwan/tree/main/chat-logs)
 
 ## ILiADS Workshops
 - Welcome, Team Lightning Talks, Announcements
