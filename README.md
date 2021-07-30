@@ -2,8 +2,8 @@
 
 - Notes
   * [Google Doc](https://docs.google.com/document/d/1C536tjOD3YYShozO6ZbcWVcJ8_uTzeem5cp_muojCEc/edit?usp=sharing)
+  * [`.docx`]
   * [`.pdf`]
-  * [`.txt`]
   * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes.md)
 
 - Form template for archival collections information
@@ -18,12 +18,12 @@
 
 - Data Model
   * [Google Jamboard](https://jamboard.google.com/d/1SfqpsdugMynnOyjzt8UoRPbruhDmJ3SiOOfcm7Slipc/edit?usp=sharing)
-  * [`.csv`]
+  * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/data-model.md)
   * [`.png`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Data_Model.png)
   * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Jamboards.pdf)
 
 - Website Architecture
   * [Google Jamboard](https://jamboard.google.com/d/1SfqpsdugMynnOyjzt8UoRPbruhDmJ3SiOOfcm7Slipc/edit?usp=sharing)
-  * [`.md`]
+  * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/website-architecture.md)
   * [`.png`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Website_Architecture.png)
   * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Jamboards.pdf)
