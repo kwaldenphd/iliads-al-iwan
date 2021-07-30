@@ -28,6 +28,8 @@
   * [`.png`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Website_Architecture.png)
   * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/files/Google_Jamboards.pdf)
 
+- [Project Workflow (image)](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/Al-Iwan_Workflow.jpg)
+
 - Session Recordings
   * Monday 7/26
     * [Panopto](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8ec9e67-3c36-4e47-b959-ad7101467b1a)
