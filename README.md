@@ -2,9 +2,9 @@
 
 - Notes
   * [Google Doc](https://docs.google.com/document/d/1C536tjOD3YYShozO6ZbcWVcJ8_uTzeem5cp_muojCEc/edit?usp=sharing)
-  * [`.docx`]
-  * [`.pdf`]
-  * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes.md)
+  * [`.docx`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes/ILiADS_Al-Iwan.docx)
+  * [`.pdf`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes/ILiADS_Al-Iwan.pdf)
+  * [`.md`](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/notes/notes.md)
 
 - Form template for archival collections information
   * Form
