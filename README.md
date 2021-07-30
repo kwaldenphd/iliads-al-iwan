@@ -54,11 +54,11 @@
     * [Link to Office365 PowerPoint slides](https://gettysburg-my.sharepoint.com/:p:/g/personal/rmiessle_gettysburg_edu/EVz2AviQVAtMp97e0O4IQOoBCMLXEaoFf8KVbNjlQPPuZA?e=QfD2zi)
     * [Link to slides as a PDF](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/choosing-tool-workshop/Choosing%20Digital%20Tools%20-%20ILiADS%202021.pdf)
     * [Recording](https://drive.google.com/file/d/1X4lh7rRSXqs2bkGTYtoEHkXwqjT7-6rC/view?usp=sharing)
-  * [Sustainability Workshop]
+  * Sustainability Workshop
     * [Link to Google Drive folder with resources](https://drive.google.com/drive/folders/1olMEc6O3suNJsWDwSfQ0GHZDYADjt6pU?usp=sharing)
     * [GitHub folder with materials](https://github.com/kwaldenphd/iliads-al-iwan/tree/main/sustainability-workshop)
     * [Recording]
-  * [Metadata and Data Modeling]
+  * Metadata and Data Modeling
     * [Google Slides link](https://docs.google.com/presentation/d/1AOhP5hGHMt5Dut4Isix-J3Nm5s1Nay24vgymPPZpq4k/edit?usp=sharing)
     * [Slide deck as a PDF](https://github.com/kwaldenphd/iliads-al-iwan/blob/main/metadata-workshop/ILiADS%202021%20-%20Data%20Modeling%20%2B%20Metadata.pdf)
     * [Recording](https://drive.google.com/file/d/1F1qq17J-WjDgAWpUTXoyKqIBtFhEXskP/view?usp=sharing)
