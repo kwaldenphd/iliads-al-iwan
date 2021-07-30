@@ -1,0 +1,28 @@
+13:03:44 From  Nabila Shehabeddine  to  Everyone:
+	Hello
+13:08:46 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	http://www.globaloutlookdh.org/
+13:09:48 From  Till Grallert  to  Everyone:
+	The mailing list can be found at globaloutlookdh-l@uleth.ca
+13:10:06 From  Till Grallert  to  Everyone:
+	but it is rather quiet recently
+13:15:00 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	https://docs.google.com/document/d/1C536tjOD3YYShozO6ZbcWVcJ8_uTzeem5cp_muojCEc/edit#heading=h.s32i6x1li6s
+13:18:23 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	notes and diagrams for data model and website architecture are on pages 26-27, link to Jamboard (https://jamboard.google.com/d/1SfqpsdugMynnOyjzt8UoRPbruhDmJ3SiOOfcm7Slipc/edit?usp=sharing)
+13:24:49 From  Till Grallert  to  Everyone:
+	https://cli.github.com/manual/gh_actions
+13:25:09 From  Till Grallert  to  Everyone:
+	https://docs.github.com/en/actions
+13:27:29 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	Page 29 in the doc https://docs.google.com/document/d/1C536tjOD3YYShozO6ZbcWVcJ8_uTzeem5cp_muojCEc/edit#heading=h.opoh2cee7jo5
+13:29:06 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	I'm going to start recording, since I think we're going to have a valuable and important conversation about this flowchart!
+13:29:17 From  Till Grallert  to  Everyone:
+	great!
+13:52:51 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	https://minicomp.github.io/wax/
+13:53:10 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	https://github.com/minicomp/wax/
+13:55:36 From  Katherine (Katie) Walden | she/her  to  Everyone:
+	https://rit.zoom.us/j/93448182870?pwd=RlRzYlNGSlJNeFpWMGVkUGtuWjg1Zz09
