@@ -756,27 +756,27 @@ Elie- possibly need for two different types of platforms
 
 ## Metadata Community Conversation
 
-MSU team- dealing with Russian language and multilingual metadata 
-AUB team- calendar, language variance; encoding challenges
-Question: Calendars that are not Gregorian, how to standardize or how to deal with variety?
-Sidestepping the calendar issue by focusing on user community being predominantly English-speaking
-Methods for dealing with script variance and language contextual usage
-Where Unicode might be headed, or what options/workflows might be able to help address unicode gaps
-Question: Dealing with different Unicode tables for characters/glyphs, not normalized on the OS level?
-Question: How to represent multilingual metadata? Multiple languages, translation, etc? Think about this in relation to audience/user communities?
-Also platform/interface language?
-What does this mean for standardizing metadata for user submissions?
-Script differentiation in terms of R-L, L-R reading
-Interoperability and what that means back-end technical workflows versus front-end presentation
-What needs translation and what must be interoperable (and by or for whom)
-Value of bibliographic resources for highlighting cultural material/cultural heritage that exists in personal collections 
-Making bibliographies part of the project for materials/collections that might not (ever) be ingested into central project repository data model
-Bibliographic work as a form of crowdsourcing
-Mirror site targeted for potential donors/diaspora communities/cultural institutions
-Crowdsourcing for the mirror site rather than the central project repository (different purpose/audience)
-Intercultural and intergenerational dimensions of crowdsourcing cultural heritage
-Which connects back to metadata, description, representation, presentation
-Digitized representations of material artifacts
+- MSU team- dealing with Russian language and multilingual metadata 
+- AUB team- calendar, language variance; encoding challenges
+- Question: Calendars that are not Gregorian, how to standardize or how to deal with variety?
+  * Sidestepping the calendar issue by focusing on user community being predominantly English-speaking
+  * Methods for dealing with script variance and language contextual usage
+  * Where Unicode might be headed, or what options/workflows might be able to help address unicode gaps
+- Question: Dealing with different Unicode tables for characters/glyphs, not normalized on the OS level?
+- Question: How to represent multilingual metadata? Multiple languages, translation, etc? Think about this in relation to audience/user communities?
+  * Also platform/interface language?
+  * What does this mean for standardizing metadata for user submissions?
+  * Script differentiation in terms of R-L, L-R reading
+  * Interoperability and what that means back-end technical workflows versus front-end presentation
+  * What needs translation and what must be interoperable (and by or for whom)
+- Value of bibliographic resources for highlighting cultural material/cultural heritage that exists in personal collections 
+  * Making bibliographies part of the project for materials/collections that might not (ever) be ingested into central project repository data model
+  * Bibliographic work as a form of crowdsourcing
+- Mirror site targeted for potential donors/diaspora communities/cultural institutions
+  * Crowdsourcing for the mirror site rather than the central project repository (different purpose/audience)
+  * Intercultural and intergenerational dimensions of crowdsourcing cultural heritage
+  * Which connects back to metadata, description, representation, presentation
+  * Digitized representations of material artifacts
 
 ## Documentation and Technical Workflows
 
@@ -820,22 +820,22 @@ Next steps:
     * [DLFTeach Toolkit](https://dlfteach.pubpub.org/toolkit)
     * [Library Carpentry](https://librarycarpentry.org/)
 - Where to host all of this- server space?
-  * Reclaim hosting
+  * [Reclaim hosting](https://reclaimhosting.com/)
     * US-based: is this an issue?
-  * Hypotheses.org for blogging (Wordpress): 
+  * [Hypotheses.org for blogging (Wordpress): ](https://hypotheses.org/)
     * Free: hosted by European research institutions
     * increasing visibility of the content through the platform
     * Maintenance of the infrastructure taken care of.
-  * GitHub’s gh-pages: simple and free-to-use hosting solution for static content
-    * Built-in Jekyll support
-    * Static content can be generated upon changes to the data in repositories through Github Actions
+  * GitHub’s [gh-pages](https://pages.github.com/): simple and free-to-use hosting solution for static content
+    * Built-in [Jekyll](https://jekyllrb.com/) support
+    * Static content can be generated upon changes to the data in repositories through [Github Actions](https://github.com/features/actions)
     * No guarantee on long-term availability
     * Limited size of free repositories not suited to host visual/ audio content
-  * The Internet Archive
+  * [The Internet Archive](https://archive.org/)
     * Can act as a digital archive for user-digitised content
     * Supports IIIF (“experimental” but reliable)
   * Public repositories for long-term preservation of data sets
-    * Zenodo
+    * [Zenodo](https://zenodo.org/)
       * EU-funded at CERN
       * Provides DOIs
       * Can hook into GitHub
@@ -848,19 +848,19 @@ Next steps:
   * Labor
   * Technical consultation/training (who in the team needs what)
     * IIIF
-      * IIIIF training resources
-      * IIIF workshop materials from Jeffrey C. Witt
-      * IIIF workshop materials developed by Jason Ronallo
+      * [IIIIF training resources](https://training.iiif.io/)
+      * [IIIF workshop materials from Jeffrey C. Witt](http://jeffreycwitt.com/IIIFWorkshop/docs/doc1)
+      * [IIIF workshop materials developed by Jason Ronallo](http://ronallo.com/iiif-workshop-new/)
     * Annotation
-      * AudiAnnotate project (IIIF and audio annotation)
-      * IIIF annotation that integrates with Wax (or Jekyll sites)
+      * [AudiAnnotate project (IIIF and audio annotation)](https://hipstas.github.io/AudiAnnotate/)
+      * [IIIF annotation that integrates with Wax (or Jekyll sites)](https://github.com/mnyrop/annotate)
     * Minimal computing
-      * Jekyll theme for IIIF-C sites
-      * Wax (minimal computing, static sites platform for digital collections)
-        * Demo site built using Wax
-      * Ed (Jekyll theme for minimal computing textual edited content)
-      * CollectionBuilder platform for static-site generation using digital collections (options for GitHub Pages, Stand Alone, and CONTENTdm with options for other systems/APIS; based at University of Idaho)
-        * Olivia Wikle, Evan Williamson, and Devin Becker, “What is Static Web and What’s it Doing in the Digital Humanities Classroom?” dh + lib (2020)
+      * [Jekyll theme for IIIF-C sites](https://github.com/mnyrop/iiifc-theme)
+      * [Wax](https://github.com/minicomp/wax/) (minimal computing, static sites platform for digital collections)
+        * [Demo site built using Wax](https://minicomp.github.io/wax/)
+      * [Ed](https://minicomp.github.io/wax/) (Jekyll theme for minimal computing textual edited content)
+      * [CollectionBuilder platform](https://collectionbuilder.github.io/) for static-site generation using digital collections (options for GitHub Pages, Stand Alone, and CONTENTdm with options for other systems/APIS; based at University of Idaho)
+        * Olivia Wikle, Evan Williamson, and Devin Becker, “[What is Static Web and What’s it Doing in the Digital Humanities Classroom?](https://dhandlib.org/2020/06/22/what-is-static-web-and-whats-it-doing-in-the-digital-humanities-classroom/)” dh + lib (2020)
     * Git/GitHub
       * Software Carpentry tutorial
       * Library Carpentry tutorial
