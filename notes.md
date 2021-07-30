@@ -527,9 +527,6 @@ Till:
             * Provide an annotation layer that allows to “easily” link entities to Wikidata, VIAF etc.
             * Submit textual material to annotation (machine-learning based entity recognition)
 
-
-
-
 Najla:
 - Users can become aware of this site through research guides 
 - Digital Humanities/Literature/History faculty can use this site to teach students DH methods such as textual analysis, mapping of literary texts, and network analysis, etc and tools, using the Orientalist texts in the corpora collected for such lessons/tutorials. Maps created from the texts could be compared to maps in the collections. Attitudes to the Orient can be analysed through DH tools such as Antconc and Voyant that could go against what is known in the field of Orientalism.
@@ -539,9 +536,9 @@ Najla:
 
 Elie:
 - Faculty/Students (part of an academic activity) or any scholar (doing a research) can use the platform to upload their digital work. The platform will allow them to have a unique workspace to do some DH activity and to follow a certain workflow, guideline or procedure to upload/share their digital work that should be related to orientalism. Their work should be made available for others to check and cite. 
-For example, students are asked by their professor to choose images about orientalism and comment on these photos. Students should be introduced to the framework/platform to accomplish their assignment. Qualified work should remain on the system to be cited by other scholars and build on top of it.
-As a digital archivist, the digital objects created and referenced should be archived and preserved.
-Archivist/librarian can work with students to help them identify item about orientalism form the web.
+- For example, students are asked by their professor to choose images about orientalism and comment on these photos. Students should be introduced to the framework/platform to accomplish their assignment. Qualified work should remain on the system to be cited by other scholars and build on top of it.
+- As a digital archivist, the digital objects created and referenced should be archived and preserved.
+- Archivist/librarian can work with students to help them identify item about orientalism form the web.
 
 Nabila:
 - Librarian/ students: Librarian can direct students working on the topic to this platform
